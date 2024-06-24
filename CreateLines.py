@@ -16,10 +16,6 @@ def read_addresses_from_excel(file_path):
 file_path = 'RouteVisualizationData.xlsm'
 df = read_addresses_from_excel(file_path)
 
-
-
-
-
 # Create a map centered on the Netherlands
 m = folium.Map(location=[52.1, 5.3], zoom_start=8)
 

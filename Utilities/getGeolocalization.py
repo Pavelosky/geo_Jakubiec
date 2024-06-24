@@ -21,7 +21,7 @@ def geocode_address(address):
 
 # Main function to read, process, and save the updated DataFrame
 def main():
-    file_path = 'Geolocalization.xlsx'
+    file_path = './Geolocalization.xlsx'
     
     # Read addresses from the Excel file
     df = read_addresses_from_excel(file_path)

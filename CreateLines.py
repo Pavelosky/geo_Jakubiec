@@ -8,7 +8,7 @@ def read_addresses_from_excel(file_path):
     return df
 
 # Load JSON data from a file
-with open('GeoLocation.json', 'r') as json_file:
+with open('Data/GeoLocation.json', 'r') as json_file:
     address_data = json.load(json_file)
 
 # Function to retrieve latitude and longitude

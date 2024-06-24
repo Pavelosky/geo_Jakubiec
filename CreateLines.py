@@ -25,7 +25,7 @@ def get_lat_lon(start_address, address_data):
 #  Document with locations to display on map #
 ##############################################
 
-file_path = 'RouteVisualizationData.xlsm'
+file_path = 'RouteVisualizationData.xlsx'
 df = read_addresses_from_excel(file_path)
 
 # Create a map centered on the Netherlands

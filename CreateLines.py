@@ -1,11 +1,17 @@
 import folium
 import pandas as pd
+from collections import Counter
 import json
 
 # Define a function to read addresses and coordinates from an Excel file
 def read_addresses_from_excel(file_path):
     df = pd.read_excel(file_path, engine='openpyxl')
     return df
+
+# Function to count repeated addresses
+def count_repeated_addresses(address_list):
+    address_counter = Counter(address_list)
+    return address_counter
 
 # Load JSON data from a file
 with open('Data/GeoLocation.json', 'r') as json_file:
@@ -27,6 +33,16 @@ def get_lat_lon(start_address, address_data):
 
 file_path = 'RouteVisualizationData.xlsx'
 df = read_addresses_from_excel(file_path)
+
+from_addresses = df.iloc[:, 0]
+first_column_list = from_addresses.tolist()
+
+address_counts = count_repeated_addresses(first_column_list)
+
+
+
+for address, count in address_counts.items():
+    print(f"Address: {address}, Count: {count}")
 
 # Create a map centered on the Netherlands
 m = folium.Map(location=[52.1, 5.3], zoom_start=8)
@@ -56,6 +72,8 @@ for index, row in df.iterrows():
     # Add a line connecting start and end locations
     folium.PolyLine(
         locations=[[start_lat, start_lon], [end_lat, end_lon]],
+        opacity = 0.7,
+        weight = 3,
         color='blue'
     ).add_to(m)
 

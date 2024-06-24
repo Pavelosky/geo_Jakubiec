@@ -16,6 +16,8 @@ def main():
     # Read addresses from the Excel file
     df = read_addresses_from_excel(file_path)
 
+
+    df.fillna('EMPTY', inplace=True)
     dict_data = df.to_dict(orient='index')
 
     json_file_path = 'GeoLocation.json'

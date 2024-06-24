@@ -1,8 +1,8 @@
 {
     "0": {
         "Address": "Europalaan 75 5531 BE, Bladdel",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "1": {
         "Address": "Burgemeester Lemmensstraat 152 6163 JR, Geleen",
@@ -111,8 +111,8 @@
     },
     "22": {
         "Address": "Eendegoor 1 5095 AA, Hooge Mierde",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "23": {
         "Address": "Europawijk 30 2400, Mol",
@@ -121,8 +121,8 @@
     },
     "24": {
         "Address": "Pietersbergweg 301 1105 BM Amsterdam 301 1105 BM, Amsterdam",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "25": {
         "Address": "Oostendorperstraatweg 1 8081 RH, Elburg",
@@ -131,8 +131,8 @@
     },
     "26": {
         "Address": "Dorpstraat 157 7948 BP, Nijeveen",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "27": {
         "Address": "Brinkpoortstraat 48 7411 HR, Deventer",
@@ -141,8 +141,8 @@
     },
     "28": {
         "Address": "Oostwijkstraat 17 8331 EA, 8331 EA",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "29": {
         "Address": "Oosterstraat 59 8331 HB, Steenwijk",
@@ -166,8 +166,8 @@
     },
     "33": {
         "Address": "Hardenbergweg 20 7696 BC, Brucht",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "34": {
         "Address": "Paasloregel 29 8338 SV, Willemsoord",
@@ -181,8 +181,8 @@
     },
     "36": {
         "Address": "Het Lijntje 32 7695 SC, Bruchterveld",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "37": {
         "Address": "Marinus Naefflaan 11 7241 GC, Lochem",
@@ -241,8 +241,8 @@
     },
     "48": {
         "Address": "Toolhuis 3523 6537 NN, Nijmegen",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "49": {
         "Address": "Aldenhof 6604 6537 CW, Nijmegen",
@@ -256,13 +256,13 @@
     },
     "51": {
         "Address": "Basillius van Bruggelaan 2 5363 VA, Velp-Grave",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "52": {
         "Address": "Stechbahn 13/4 L 13 47533, Kleve",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "53": {
         "Address": "Dommelsvoort 17 5437 PC, Beers",
@@ -346,8 +346,8 @@
     },
     "69": {
         "Address": "Ooyenseweg 14 5863 AM, Blitterswijck",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "70": {
         "Address": "Steenweg op Antwerpen 16 2300, Turnhout",
@@ -401,8 +401,8 @@
     },
     "80": {
         "Address": "Eijkereind 29 5571 EA, Bergeijk",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "81": {
         "Address": "Maerlant 10 8224 AC, Lelystad",
@@ -456,8 +456,8 @@
     },
     "91": {
         "Address": "ddd 85 1121 AA, asfdas",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "92": {
         "Address": "Delenseweg 85 6877 AE, Deelen",
@@ -566,8 +566,8 @@
     },
     "113": {
         "Address": "Meerstraat 30 5473 VX, Heswijk Dinter",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "114": {
         "Address": "Rijksweg-Zuid 16 5391 LN, Nuland",
@@ -601,8 +601,8 @@
     },
     "120": {
         "Address": "Molenstrat 201 5701 KD, Helmond",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "121": {
         "Address": "Hemelrijken 97 5612 LC, Eindhoven",
@@ -766,8 +766,8 @@
     },
     "153": {
         "Address": "Rietgraaf 10 6678 PJ, Oosterhout Gld",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "154": {
         "Address": "Everdenberg 50 4902 TT, Oosterhout NB",
@@ -866,13 +866,13 @@
     },
     "173": {
         "Address": "Wolgaweg 17 3198 LR, Europoort Rt",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "174": {
         "Address": "Dardanellenstraat 90 3199 KZ, Maasvlakte Rt",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "175": {
         "Address": "Pakket onderweg 1 5688 HB, Oirschot",
@@ -981,8 +981,8 @@
     },
     "196": {
         "Address": "Antonie van Leeuwenhoekweg 35 2408 AK, Alphen aan den Rijn",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "197": {
         "Address": "Amert 409 5462 GH, Veghel",
@@ -1096,8 +1096,8 @@
     },
     "219": {
         "Address": "Bylandt 5 6916 KA, Tolkamer",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "220": {
         "Address": "Industrielaan 2 5061 KC, Oisterwijk",
@@ -1161,8 +1161,8 @@
     },
     "232": {
         "Address": "Dobrowo 29, Dobrowo",
-        "Latitude": NaN,
-        "Longitude": NaN
+        "Latitude": "EMPTY",
+        "Longitude": "EMPTY"
     },
     "233": {
         "Address": "Rand 4191 NN, Geldermalsen",

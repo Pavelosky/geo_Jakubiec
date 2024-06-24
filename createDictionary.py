@@ -16,7 +16,7 @@ def main():
     # Read addresses from the Excel file
     df = read_addresses_from_excel(file_path)
 
-
+    df.set_index(df.columns[0], inplace=True)
     df.fillna('EMPTY', inplace=True)
     dict_data = df.to_dict(orient='index')
 

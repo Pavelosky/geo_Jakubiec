@@ -8,6 +8,8 @@ def read_addresses_from_excel(file_path):
     df = pd.read_excel(file_path, engine='openpyxl')
     return df
 
+# New comment to test commit
+
 # Define a function to geocode an address
 def geocode_address(address):
     g = geocoder.osm(address)

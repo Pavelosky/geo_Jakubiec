@@ -25,7 +25,7 @@ def get_lat_lon(start_address, address_data):
     else:
         return "Address not found", "Address not found"
 
-print(read_addresses_from_excel('RouteVisualizationData.xlsx'))
+# print(read_addresses_from_excel('RouteVisualizationData.xlsx'))
 # Read addresses and coordinates from the Excel file
 ##############################################
 #  Document with locations to display on map #
@@ -39,8 +39,6 @@ first_column_list = from_addresses.tolist()
 
 address_counts = count_repeated_addresses(first_column_list)
 
-print(address_counts)
-
 # for address, count in address_counts.items():
 #     print(f"Address: {address}, Count: {count}")
 
@@ -51,6 +49,7 @@ m = folium.Map(location=[52.1, 5.3], zoom_start=8)
 for index, row in df.iterrows():
     start_address = row['Start Address']
     end_address = row['End Address']
+    weight = row['NrPassengers'] / 10
 
     start_lat, start_lon = get_lat_lon(start_address, address_data)    
     end_lat, end_lon = get_lat_lon(end_address, address_data)   
@@ -70,7 +69,8 @@ for index, row in df.iterrows():
     ).add_to(m)
 
     # Add a line connecting start and end locations
-    weight = address_counts[start_address] + address_counts[end_address] / 2
+    #weight = address_counts[start_address] + address_counts[end_address] / 2
+    
     folium.PolyLine(
         locations=[[start_lat, start_lon], [end_lat, end_lon]],
         opacity=0.5,

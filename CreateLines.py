@@ -2,6 +2,7 @@ import folium
 import pandas as pd
 from collections import Counter
 import json
+import getGeo
 
 # Define a function to read addresses and coordinates from an Excel file
 def read_addresses_from_excel(file_path):
@@ -23,9 +24,8 @@ def get_lat_lon(start_address, address_data):
         lat_lon = address_data[start_address]
         return lat_lon['Latitude'], lat_lon['Longitude']
     else:
-        return "Address not found", "Address not found"
+        return "EMPTY", "EMPTY"
 
-# print(read_addresses_from_excel('RouteVisualizationData.xlsx'))
 # Read addresses and coordinates from the Excel file
 ##############################################
 #  Document with locations to display on map #
@@ -36,6 +36,9 @@ df = read_addresses_from_excel(file_path)
 
 from_addresses = df.iloc[:, 0]
 first_column_list = from_addresses.tolist()
+
+# Initialize an empty set to store unique addresses
+new_addresses = set()
 
 address_counts = count_repeated_addresses(first_column_list)
 
@@ -51,32 +54,42 @@ for index, row in df.iterrows():
     end_address = row['End Address']
     weight = row['NrPassengers'] / 10
 
+
     start_lat, start_lon = get_lat_lon(start_address, address_data)    
     end_lat, end_lon = get_lat_lon(end_address, address_data)   
 
-    # Add markers for start and end locations
-    folium.Marker(
-        location=[start_lat, start_lon],
-        popup=start_address,
-        icon=folium.Icon(color='green')
-    ).add_to(m)
+    if start_lat != "EMPTY" and start_lon != "EMPTY" and end_lat != "EMPTY" and end_lon != "EMPTY":
 
-    folium.Marker(
-        location=[end_lat, end_lon],
-        popup=end_address,
-        icon=folium.Icon(color='red')
+        #Add markers for start and end locations
+        folium.Marker(
+            location=[start_lat, start_lon],
+            popup=start_address,
+            icon=folium.Icon(color='green')
+        ).add_to(m)
 
-    ).add_to(m)
+        folium.Marker(
+            location=[end_lat, end_lon],
+            popup=end_address,
+            icon=folium.Icon(color='red')
 
-    # Add a line connecting start and end locations
-    #weight = address_counts[start_address] + address_counts[end_address] / 2
-    
-    folium.PolyLine(
-        locations=[[start_lat, start_lon], [end_lat, end_lon]],
-        opacity=0.5,
-        weight=weight,
-        color='blue'
-    ).add_to(m)
+            ).add_to(m)
+
+        #Add a line connecting start and end locations
+        #weight = address_counts[start_address] + address_counts[end_address] / 2
+        
+        folium.PolyLine(
+            locations=[[start_lat, start_lon], [end_lat, end_lon]],
+            opacity=0.5,
+            weight=(weight+1)*2,
+            color='blue'
+        ).add_to(m)
+    else:
+        new_addresses.add(start_address)
+        new_addresses.add(end_address)
+
+addresses_to_check = list(new_addresses)
+
+getGeo.main(addresses_to_check)
 
 # Save the map to an HTML file
 m.save("map.html")

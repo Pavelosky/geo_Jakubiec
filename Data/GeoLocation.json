@@ -934,5 +934,65 @@
     "Reykjavikstraat 422 3543 KB, Utrecht": {
         "Latitude": 52.0993449,
         "Longitude": 5.0645021
+    },
+    "Professor Feldmannweg 1 8015 PB, Zwolle": {
+        "Latitude": 52.4720584,
+        "Longitude": 6.1113803
+    },
+    "Heidehoeksweg 7 8091 BC, Wezep": {
+        "Latitude": 52.4495825,
+        "Longitude": 5.9891249
+    },
+    "Hardenbergerweg 20 7696 BC, Brucht": {
+        "Latitude": 52.5506612,
+        "Longitude": 6.6055112
+    },
+    "Ooijenseweg 14 5863 AM, Blitterswijck": {
+        "Latitude": 51.5261275,
+        "Longitude": 6.1111632
+    },
+    "Keizersveld 12 5803 AN, Venray": {
+        "Latitude": 51.5406009,
+        "Longitude": 5.9938045
+    },
+    "Ambachtstraat 30 5804 CD, Venray": {
+        "Latitude": 51.5421548,
+        "Longitude": 5.9755922
+    },
+    "Den Alerdinckweg 2B 2 8055 PE, Laag Zuthem": {
+        "Latitude": 52.4534531,
+        "Longitude": 6.198814
+    },
+    "van Leeuwenhoekstraat 21 5807 GD, Oostrum Lb": {
+        "Latitude": 51.521685,
+        "Longitude": 6.0183159
+    },
+    "Nobelstraat 10 5807 GA, Oostrum Lb": {
+        "Latitude": 51.5181306,
+        "Longitude": 6.0170813
+    },
+    "Den Alerdinckweg 2 8055 PE, Laag Zuthem": {
+        "Latitude": 52.4541025,
+        "Longitude": 6.1997028
+    },
+    "De Conifeer 1 5807 GV, Oostrum": {
+        "Latitude": 51.5257915,
+        "Longitude": 6.0016832
+    },
+    "Erik de Rodeweg 5 5975 WD, Sevenum": {
+        "Latitude": 51.4000306,
+        "Longitude": 6.0705839
+    },
+    "Heierhoevenweg 10 5928 RN, Venlo": {
+        "Latitude": 51.4060626,
+        "Longitude": 6.0943546
+    },
+    "Straelseweg 109 5911 CN, Venlo": {
+        "Latitude": 51.3751627,
+        "Longitude": 6.1779205
+    },
+    "Den Alerdinckweg 4 8055 PE, Laag Zuthem": {
+        "Latitude": 52.4548369,
+        "Longitude": 6.2000841
     }
 }

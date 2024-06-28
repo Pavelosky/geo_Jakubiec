@@ -25,7 +25,7 @@ def main(unknown_addresses):
     data_dict = {}
     # Iterate through each row in the DataFrame
     for unknown_address in unknown_addresses:
-        print(i)
+        print(f"{i}: {unknown_address}")
         new_location = geocode_address(unknown_address)
         time.sleep(1)  # Introduce a delay between geocoding requests
 

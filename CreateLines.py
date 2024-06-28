@@ -52,6 +52,8 @@ m = folium.Map(location=[52.1, 5.3], zoom_start=8)
 for index, row in df.iterrows():
     start_address = row['Start Address']
     end_address = row['End Address']
+    housing = row['Housing Location']
+    work = row['Work Location']
     weight = row['NrPassengers'] / 10
 
 
@@ -63,13 +65,13 @@ for index, row in df.iterrows():
         #Add markers for start and end locations
         folium.Marker(
             location=[start_lat, start_lon],
-            popup=start_address,
+            popup=work,
             icon=folium.Icon(color='green')
         ).add_to(m)
 
         folium.Marker(
             location=[end_lat, end_lon],
-            popup=end_address,
+            popup=housing,
             icon=folium.Icon(color='red')
 
             ).add_to(m)

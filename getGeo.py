@@ -39,22 +39,22 @@ def main(unknown_addresses):
 
     
 
-    if data_dict:
-        json_file_path = 'Data/GeoLocation.json'
-        try:
-            with open(json_file_path, 'r') as json_file:
-                existing_data = json.load(json_file)
-        except FileNotFoundError:
-            existing_data = {}
 
-        # Update existing data with new data
-        existing_data.update(data_dict)
+    json_file_path = 'Data/GeoLocation.json'
+    try:
+        with open(json_file_path, 'r') as json_file:
+            existing_data = json.load(json_file)
+    except FileNotFoundError:
+        existing_data = {}
 
-        # Write updated data back to the JSON file
-        with open(json_file_path, 'w') as json_file:
-            json.dump(existing_data, json_file, indent=4)
-        
-        print(f"Dictionary successfully saved - ({len(existing_data)} rows)")
+    # Update existing data with new data
+    existing_data.update(data_dict)
+
+    # Write updated data back to the JSON file
+    with open(json_file_path, 'w') as json_file:
+        json.dump(existing_data, json_file, indent=4)
+    
+    print(f"Dictionary successfully saved - ({len(existing_data)} rows)")
 
 
 # Run the main function

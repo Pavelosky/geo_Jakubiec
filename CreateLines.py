@@ -40,7 +40,7 @@ first_column_list = from_addresses.tolist()
 # Initialize an empty set to store unique addresses
 new_addresses = set()
 
-address_counts = count_repeated_addresses(first_column_list)
+#address_counts = count_repeated_addresses(first_column_list)
 
 # for address, count in address_counts.items():
 #     print(f"Address: {address}, Count: {count}")
@@ -54,7 +54,7 @@ for index, row in df.iterrows():
     end_address = row['End Address']
     housing = row['Housing Location']
     work = row['Work Location']
-    weight = row['NrPassengers'] / 10
+    weight = row['NrPassengers'] 
 
 
     start_lat, start_lon = get_lat_lon(start_address, address_data)    
@@ -82,7 +82,7 @@ for index, row in df.iterrows():
         folium.PolyLine(
             locations=[[start_lat, start_lon], [end_lat, end_lon]],
             opacity=0.5,
-            weight=(weight+1)*2,
+            weight=weight,
             color='blue'
         ).add_to(m)
     else:

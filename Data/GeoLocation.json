@@ -994,5 +994,29 @@
     "Den Alerdinckweg 4 8055 PE, Laag Zuthem": {
         "Latitude": 52.4548369,
         "Longitude": 6.2000841
+    },
+    "Stationsplein 12 6131 AT, Sittard": {
+        "Latitude": 51.0009109,
+        "Longitude": 5.8596424
+    },
+    "Balenhoek 2 3930, Hamont-Achel": {
+        "Latitude": 51.241290649999996,
+        "Longitude": 5.545090867232968
+    },
+    "Meuserstraat 118 6464 EG, Kerkrade": {
+        "Latitude": 50.8822136,
+        "Longitude": 6.0776123
+    },
+    "Enschotsestraat 190 5014 DK, Tilburg": {
+        "Latitude": 51.562561,
+        "Longitude": 5.0954725
+    },
+    "Bredaseweg 151 5038 NC, Tilburg": {
+        "Latitude": 51.5555714,
+        "Longitude": 5.072972
+    },
+    "Jules Verneweg 85 5015 BH, Tilburg": {
+        "Latitude": 51.5749152,
+        "Longitude": 5.1191699
     }
 }

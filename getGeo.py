@@ -20,10 +20,12 @@ def geocode_address(address):
     # Main function to read, process, and save the updated DataFrame
 def main(unknown_addresses):
 
+    i = 1 # nie obraz sie za i xd 
+    print(f"------ Start geocoding of {len(unknown_addresses)} address(es) --------")
     data_dict = {}
     # Iterate through each row in the DataFrame
     for unknown_address in unknown_addresses:
-
+        print(i)
         new_location = geocode_address(unknown_address)
         time.sleep(1)  # Introduce a delay between geocoding requests
 
@@ -33,6 +35,9 @@ def main(unknown_addresses):
                 "Latitude": loc_lat,
                 "Longitude": loc_lon
             }
+        i = i + 1
+
+    
 
     if data_dict:
         json_file_path = 'Data/GeoLocation.json'
@@ -49,7 +54,7 @@ def main(unknown_addresses):
         with open(json_file_path, 'w') as json_file:
             json.dump(existing_data, json_file, indent=4)
         
-        print(f"Dictionary successfully saved to {existing_data}")
+        print(f"Dictionary successfully saved - ({len(existing_data)} rows)")
 
 
 # Run the main function

@@ -21,4 +21,4 @@ with open(json_doc, 'w') as json_file:
     json.dump(data_dict, json_file, indent=4)
 
 # Print the resulting dictionary for verification
-print(data_dict)
+print(len(data_dict))

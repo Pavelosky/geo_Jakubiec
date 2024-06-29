@@ -4,8 +4,8 @@
         "Longitude": 5.8124795
     },
     "Groenseykerstraat 31 6161 SE, Geleen": {
-        "Latitude": 50.9695581,
-        "Longitude": 5.8228201
+        "Latitude": 50.9695556,
+        "Longitude": 5.822793300000001
     },
     "Aan het Broek 51 6137 TJ, Sittard": {
         "Latitude": 51.0043005,
@@ -20,8 +20,8 @@
         "Longitude": 5.3052924
     },
     "Zandzuigerstraat 101 5231 XW, 's-Hertogenbosch": {
-        "Latitude": 51.7009137,
-        "Longitude": 5.3187064
+        "Latitude": 51.7009098,
+        "Longitude": 5.3188232
     },
     "Dorpsstraat 28 5241 EC, Rosmalen": {
         "Latitude": 51.7178316,
@@ -60,28 +60,28 @@
         "Longitude": 5.0554993
     },
     "Scheibaan 17 5062 TM, Oisterwijk": {
-        "Latitude": 51.5666922,
-        "Longitude": 5.2364111
+        "Latitude": 51.566818,
+        "Longitude": 5.2366474
     },
     "I.B.C.-Weg 2 5683 PK, Best": {
-        "Latitude": 51.51594935,
-        "Longitude": 5.396351599750803
+        "Latitude": 51.5021614,
+        "Longitude": 5.412954399999999
     },
     "Hoogeveenseweg 5 2771 TA, Boskoop": {
         "Latitude": 52.0757579,
         "Longitude": 4.633715
     },
     "Stoofkade 11 2809 NH, Gouda": {
-        "Latitude": 52.0147652,
-        "Longitude": 4.6823156
+        "Latitude": 52.0147494,
+        "Longitude": 4.6822604
     },
     "Parkweg 1 3221 LV, Hellevoetsluis": {
-        "Latitude": 51.8369625,
-        "Longitude": 4.0927686
+        "Latitude": 51.83584279999999,
+        "Longitude": 4.091069099999999
     },
     "Nieuwe Zeedijk 1 3221 LZ, Hellevoetsluis": {
-        "Latitude": 51.8255917,
-        "Longitude": 4.1247235
+        "Latitude": 51.824803,
+        "Longitude": 4.125336
     },
     "Europawijk 30 2400, Mol": {
         "Latitude": 51.2038,
@@ -120,8 +120,8 @@
         "Longitude": 6.5169593
     },
     "Marinus Naefflaan 11 7241 GC, Lochem": {
-        "Latitude": 52.1568017,
-        "Longitude": 6.428342492799155
+        "Latitude": 52.1568184,
+        "Longitude": 6.428338
     },
     "Kanaal Oostzijde 23 7936 TN, Tiendeveen": {
         "Latitude": 52.7533268,
@@ -136,24 +136,24 @@
         "Longitude": 6.6101989
     },
     "Willemstraat 47 7551 DL, Hengelo": {
-        "Latitude": 52.2648638,
-        "Longitude": 6.7902289
+        "Latitude": 52.2648213,
+        "Longitude": 6.790377599999999
     },
     "Bijlmerplein 395 1102 DK, Amsterdam": {
         "Latitude": 52.3152687,
         "Longitude": 4.9536397
     },
     "Provincialeweg 38 1108 AB, Amsterdam": {
-        "Latitude": 52.3152456,
-        "Longitude": 4.9960082
+        "Latitude": 52.3155081,
+        "Longitude": 4.9961872
     },
     "Benedeneind Noordzijde 414 3405 CD, Benschop": {
         "Latitude": 51.9993838,
         "Longitude": 4.9249057
     },
     "Televisieweg 1 1322 AC, Almere": {
-        "Latitude": 52.3532275,
-        "Longitude": 5.1927243
+        "Latitude": 52.3530841,
+        "Longitude": 5.192972999999999
     },
     "Engelsestraat 4 4 3028 CG, Rotterdam": {
         "Latitude": 51.9156647,
@@ -164,72 +164,72 @@
         "Longitude": 4.6867438
     },
     "Aldenhof 6604 6537 CW, Nijmegen": {
-        "Latitude": 51.8073451,
-        "Longitude": 5.7969863
+        "Latitude": 51.80736779999999,
+        "Longitude": 5.797013499999999
     },
     "Hoefstraat 11 5373 KJ, Herpen": {
-        "Latitude": 51.7680926,
-        "Longitude": 5.5937071
+        "Latitude": 51.76798429999999,
+        "Longitude": 5.5941983
     },
     "Dommelsvoort 17 5437 PC, Beers": {
-        "Latitude": 51.734613,
-        "Longitude": 5.8323084
+        "Latitude": 51.7345237,
+        "Longitude": 5.8322495
     },
     "Zoetsmeerweg 6 5443 NH, Haps": {
-        "Latitude": 51.6824762,
-        "Longitude": 5.8605415
+        "Latitude": 51.6818829,
+        "Longitude": 5.8600128
     },
     "Cuijkseweg 29 5443 PA, Haps": {
-        "Latitude": 51.7029027,
-        "Longitude": 5.8748312
+        "Latitude": 51.7029303,
+        "Longitude": 5.8747405
     },
     "Moyl\u00e4nder Str. 59 47551, Bedburg-Hau": {
-        "Latitude": 51.7309493,
-        "Longitude": 6.211532529812128
+        "Latitude": 51.7308671,
+        "Longitude": 6.2116674
     },
     "Trekweg 1 1338 GA, Almere": {
-        "Latitude": 52.3790682,
-        "Longitude": 5.2803589
+        "Latitude": 52.379077,
+        "Longitude": 5.280342999999999
     },
     "Stationsstraat 45 7311 NV, Apeldoorn": {
         "Latitude": 52.2125045,
         "Longitude": 5.9671621
     },
     "Schipholweg 275 1171 PK, Badhoevedorp": {
-        "Latitude": 52.3291782,
-        "Longitude": 4.7854663
+        "Latitude": 52.32904300000001,
+        "Longitude": 4.7857283
     },
     "Bundersestraat 30 5012 TB, Tilburg": {
-        "Latitude": 51.5915825,
-        "Longitude": 5.1054158
+        "Latitude": 51.591592,
+        "Longitude": 5.105391
     },
     "Boezemweg 161 3031 BH, Rotterdam": {
         "Latitude": 51.9249574,
         "Longitude": 4.4956464
     },
     "Molenberglaan 1 4791 AJ, Klundert": {
-        "Latitude": 51.6625875,
-        "Longitude": 4.5353659
+        "Latitude": 51.6626005,
+        "Longitude": 4.5353791
     },
     "Zevenbergsepoort 18 4791 AE, Klundert": {
-        "Latitude": 51.6617789,
-        "Longitude": 4.5348197
+        "Latitude": 51.6617746,
+        "Longitude": 4.5347773
     },
     "Stadhuisring 5 4791 HS, Klundert": {
         "Latitude": 51.6644558,
         "Longitude": 4.5317676
     },
     "Plotterweg 13 3821 BB, Amersfoort": {
-        "Latitude": 52.1731321,
-        "Longitude": 5.4090095
+        "Latitude": 52.173136,
+        "Longitude": 5.409001
     },
     "Amaniet 45 3823 XA, Amersfoort": {
-        "Latitude": 52.1859946,
-        "Longitude": 5.3908406
+        "Latitude": 52.1859811,
+        "Longitude": 5.390850599999999
     },
     "Imstenrade 14 5655 BN, Eindhoven": {
-        "Latitude": 51.4158279,
-        "Longitude": 5.4438459
+        "Latitude": 51.41585019999999,
+        "Longitude": 5.443858199999999
     },
     "De Hulst 19 5807 EW, Venray": {
         "Latitude": 51.5254551,
@@ -244,16 +244,16 @@
         "Longitude": 4.5917023
     },
     "Illegaliteitsweg 51 3815 PK, Amersfoort": {
-        "Latitude": 52.1699092,
-        "Longitude": 5.4171209
+        "Latitude": 52.1699127,
+        "Longitude": 5.4171119
     },
     "Venrayseweg 109 5928 RG, Venlo": {
-        "Latitude": 51.4157375,
-        "Longitude": 6.1125178
+        "Latitude": 51.4157606,
+        "Longitude": 6.112570499999999
     },
     "Industrieweg 16 6039 AP, Stramproy": {
-        "Latitude": 51.1985335,
-        "Longitude": 5.7180931
+        "Latitude": 51.1985361,
+        "Longitude": 5.718090999999999
     },
     "Tramsingel 12 4814 AB, Breda": {
         "Latitude": 51.5920139,
@@ -264,8 +264,8 @@
         "Longitude": 4.8127031
     },
     "Haspelstraat 30 4741 SH, Hoeven": {
-        "Latitude": 51.5725218,
-        "Longitude": 4.5686068
+        "Latitude": 51.5737263,
+        "Longitude": 4.5694748
     },
     "Zeelandsedijk 30 5408 SN, Volkel": {
         "Latitude": 51.6403074,
@@ -276,24 +276,24 @@
         "Longitude": 5.7213113
     },
     "Maerlant 10 8224 AC, Lelystad": {
-        "Latitude": 52.5183672,
-        "Longitude": 5.4829386
+        "Latitude": 52.5182882,
+        "Longitude": 5.483098699999999
     },
     "Reiscopstra\u00dfe 18 47574, Goch": {
         "Latitude": 51.6810339,
         "Longitude": 6.158144930796277
     },
     "Voorstraat 26 4791 HN, Klundert": {
-        "Latitude": 51.6633693,
-        "Longitude": 4.5335841
+        "Latitude": 51.66331599999999,
+        "Longitude": 4.5335927
     },
     "Daalhuizerweg 8 6881 NZ, Velp": {
-        "Latitude": 51.997639,
-        "Longitude": 5.9630227
+        "Latitude": 51.99760029999999,
+        "Longitude": 5.9629483
     },
     "Weezerstrasse 66 47623, Kevelaer": {
-        "Latitude": 51.58859870000001,
-        "Longitude": 6.240361229310768
+        "Latitude": 51.5886082,
+        "Longitude": 6.240384799999999
     },
     "Rheinstra\u00dfe 88 47623, Kevelaer": {
         "Latitude": 51.5869326,
@@ -308,20 +308,20 @@
         "Longitude": 4.4362055
     },
     "Rijshoutweg 1 1505 HL, Zaandam": {
-        "Latitude": 52.4225218,
-        "Longitude": 4.8542607
+        "Latitude": 52.4226082,
+        "Longitude": 4.8559657
     },
     "Langereweg 21 6121 SB, Born": {
-        "Latitude": 51.0385425,
-        "Longitude": 5.8313566
+        "Latitude": 51.03849659999999,
+        "Longitude": 5.8313408
     },
     "Delenseweg 85 6877 AE, Deelen": {
         "Latitude": 52.0631233,
         "Longitude": 5.8959753
     },
     "Nieuwstraat 45 5691 AB, Son": {
-        "Latitude": 51.5082924,
-        "Longitude": 5.4929609
+        "Latitude": 51.5082934,
+        "Longitude": 5.4929772
     },
     "Brugstraat 57 4701 LC, Roosendaal": {
         "Latitude": 51.5383958,
@@ -348,8 +348,8 @@
         "Longitude": 4.9827398
     },
     "Gageldijk 71 3602 AJ, Maarssen": {
-        "Latitude": 52.1365252,
-        "Longitude": 5.0864372
+        "Latitude": 52.1363208,
+        "Longitude": 5.0862862
     },
     "J. Duikerstraat 16 7605 DN, Almelo": {
         "Latitude": 52.3518968,
@@ -380,20 +380,20 @@
         "Longitude": 6.6669187
     },
     "Havikstraat 20 5348 XX, Oss": {
-        "Latitude": 51.7681669,
-        "Longitude": 5.5475592
+        "Latitude": 51.7681848,
+        "Longitude": 5.547554700000001
     },
     "Havikstraat 22 5348 XX, Oss": {
-        "Latitude": 51.7681095,
-        "Longitude": 5.5475591
+        "Latitude": 51.7681262,
+        "Longitude": 5.5475502
     },
     "Da Costastraat 21 5343 JN, Oss": {
-        "Latitude": 51.7473407,
-        "Longitude": 5.5042283
+        "Latitude": 51.7473292,
+        "Longitude": 5.5041802
     },
     "Marius de Langenstraat 31 5348 AK, Oss": {
-        "Latitude": 51.7719516,
-        "Longitude": 5.5319871
+        "Latitude": 51.7719429,
+        "Longitude": 5.532017400000001
     },
     "Granietstraat 23 5345 SW, Oss": {
         "Latitude": 51.7649952,
@@ -408,8 +408,8 @@
         "Longitude": 5.963122
     },
     "Barajasweg 2 1043 CP, Amsterdam": {
-        "Latitude": 52.3883783,
-        "Longitude": 4.8342066
+        "Latitude": 52.3884473,
+        "Longitude": 4.8342893
     },
     "Slinge 600 3086 EX, Rotterdam": {
         "Latitude": 51.8747869,
@@ -424,12 +424,12 @@
         "Longitude": 4.3823284
     },
     "Hemelrijken 97 5612 LC, Eindhoven": {
-        "Latitude": 51.4472476,
-        "Longitude": 5.4716039
+        "Latitude": 51.4472726,
+        "Longitude": 5.4715688
     },
     "Veilingstraat 6 5912 AG, Venlo": {
-        "Latitude": 51.366893,
-        "Longitude": 6.1641856
+        "Latitude": 51.36689399999999,
+        "Longitude": 6.164186
     },
     "Erik de Rodeweg 3 5975WD, Sevenum": {
         "Latitude": 51.4003493,
@@ -440,60 +440,60 @@
         "Longitude": 5.5175202
     },
     "Luzacstraat 20 5344 KS, Oss": {
-        "Latitude": 51.7501467,
-        "Longitude": 5.4964464
+        "Latitude": 51.75014880000001,
+        "Longitude": 5.4964869
     },
     "Verdistraat 350 5343 VN, Oss": {
-        "Latitude": 51.7518506,
-        "Longitude": 5.516737
+        "Latitude": 51.75187529999999,
+        "Longitude": 5.5167832
     },
     "Minervum 7201 4817 ZJ, Breda": {
-        "Latitude": 51.5836949,
-        "Longitude": 4.8306678
+        "Latitude": 51.583389,
+        "Longitude": 4.8312355
     },
     "Fahrenheitweg 1 6101 WR, Echt": {
         "Latitude": 51.1211667,
         "Longitude": 5.888390578720211
     },
     "Randweg 2 4191 NN, Geldermalsen": {
-        "Latitude": 51.872686,
-        "Longitude": 5.3062982
+        "Latitude": 51.87270119999999,
+        "Longitude": 5.3056098
     },
     "Laan van Ruyven 1 2645 EE, Delfgauw": {
-        "Latitude": 51.9946612,
-        "Longitude": 4.3977481
+        "Latitude": 51.9948854,
+        "Longitude": 4.3990014
     },
     "Pegasusweg 1 5015 BZ, Tilburg": {
-        "Latitude": 51.5785646,
-        "Longitude": 5.1169552
+        "Latitude": 51.5778018,
+        "Longitude": 5.1165345
     },
     "Hoofdtocht 1 1507 CJ, Zaandam": {
-        "Latitude": 52.4273294,
-        "Longitude": 4.8065155
+        "Latitude": 52.4279768,
+        "Longitude": 4.8066604
     },
     "Galvaniweg 1 8013 RG, Zwolle": {
         "Latitude": 52.4961948,
         "Longitude": 6.1349046
     },
     "Beiraweg 6 1047 HP, Amsterdam": {
-        "Latitude": 52.4062315,
-        "Longitude": 4.7547092
+        "Latitude": 52.4060803,
+        "Longitude": 4.753629099999999
     },
     "Kanaaldijk 3 3542 AP, Utrecht": {
-        "Latitude": 52.1245107,
-        "Longitude": 5.0548963
+        "Latitude": 52.124666,
+        "Longitude": 5.055015
     },
     "Spoorwegemplacement 3 2991 VT, Barendrecht": {
-        "Latitude": 51.85374675,
-        "Longitude": 4.556914426352033
+        "Latitude": 51.8533067,
+        "Longitude": 4.5560474
     },
     "Linie 11 6678 PK, Oosterhout": {
         "Latitude": 51.8877282,
         "Longitude": 5.8139542
     },
     "Siegenstraat 7 8028 PT, Zwolle": {
-        "Latitude": 52.5383084,
-        "Longitude": 6.1810673
+        "Latitude": 52.5379567,
+        "Longitude": 6.182341200000001
     },
     "Port Z\u00e9lande 2 3253 MG, Ouddorp ZH": {
         "Latitude": 51.7561897,
@@ -516,8 +516,8 @@
         "Longitude": 4.7816032
     },
     "Poppenbouwing 30 4191 NZ, Geldermalsen": {
-        "Latitude": 51.8739524,
-        "Longitude": 5.3143478
+        "Latitude": 51.87374579999999,
+        "Longitude": 5.3183219
     },
     "Saffier 300 3316 LN, Dordrecht": {
         "Latitude": 51.762228,
@@ -544,20 +544,20 @@
         "Longitude": 4.7541842
     },
     "Inundatiedok 10 3439 JJ, Nieuwegein": {
-        "Latitude": 52.0171245,
-        "Longitude": 5.1167444
+        "Latitude": 52.0187278,
+        "Longitude": 5.1171824
     },
     "Inundatiedok 34 3439 JJ, Nieuwegein": {
         "Latitude": 52.0223256,
         "Longitude": 5.1228644
     },
     "Everdenberg 50 4902 TT, Oosterhout NB": {
-        "Latitude": 51.6311744,
-        "Longitude": 4.8858201
+        "Latitude": 51.6311315,
+        "Longitude": 4.8853873
     },
     "Oudeweg 10 2031 CC, Haarlem": {
-        "Latitude": 52.3838868,
-        "Longitude": 4.6560651
+        "Latitude": 52.383871,
+        "Longitude": 4.6558106
     },
     "Bedrijfsweg 12 2404 CB, Alphen aan den Rijn": {
         "Latitude": 52.1367186,
@@ -576,60 +576,60 @@
         "Longitude": 4.8827179
     },
     "Veerpolder 7 2361 KX, Warmond": {
-        "Latitude": 52.1890355,
-        "Longitude": 4.4982294
+        "Latitude": 52.1890533,
+        "Longitude": 4.499204199999999
     },
     "Zwenkgras 7 5986 PM, Beringe": {
-        "Latitude": 51.3319397,
-        "Longitude": 5.9164393
+        "Latitude": 51.3319538,
+        "Longitude": 5.9161668
     },
     "Kaapstadweg 25 1047 HG, Amsterdam": {
-        "Latitude": 52.4087532,
-        "Longitude": 4.735294
+        "Latitude": 52.4087585,
+        "Longitude": 4.736192099999999
     },
     "Burgemeester van der Dussenstraat 910 3316 LR, Dordrecht": {
         "Latitude": 51.7589697,
         "Longitude": 4.6314721
     },
     "Heksekamp 29 5301 LX, Zaltbommel": {
-        "Latitude": 51.7983089,
-        "Longitude": 5.267824
+        "Latitude": 51.7983414,
+        "Longitude": 5.2697676
     },
     "Atoomweg 30 3542 AB, Utrecht": {
         "Latitude": 52.1036548,
         "Longitude": 5.067376
     },
     "De Run 6800 5504 DW, Veldhoven": {
-        "Latitude": 51.404039,
-        "Longitude": 5.4090661
+        "Latitude": 51.402496,
+        "Longitude": 5.4097576
     },
     "Flight Forum 1950 5657 EZ, Eindhoven": {
-        "Latitude": 51.4493229,
-        "Longitude": 5.4003783
+        "Latitude": 51.4493192,
+        "Longitude": 5.4006279
     },
     "Genuakade 8 8263 CG, Kampen": {
         "Latitude": 52.5790761,
         "Longitude": 5.865187
     },
     "Bolwerkdok 1 3433 KN, Nieuwegein": {
-        "Latitude": 52.0151504,
-        "Longitude": 5.1157331
+        "Latitude": 52.0151165,
+        "Longitude": 5.1158567
     },
     "Bijsterhuizen 3140 6604 LV, Wijchen": {
-        "Latitude": 51.8209956,
-        "Longitude": 5.7698517
+        "Latitude": 51.82189529999999,
+        "Longitude": 5.7618166
     },
     "De Riemsdijk 1 4004 LC, Tiel": {
-        "Latitude": 51.9182809,
-        "Longitude": 5.4453421
+        "Latitude": 51.9178474,
+        "Longitude": 5.4445359
     },
     "Simon Stevinstraat 10 4004 JV, Tiel": {
-        "Latitude": 51.9158543,
-        "Longitude": 5.4274224
+        "Latitude": 51.91616380000001,
+        "Longitude": 5.4269869
     },
     "Pakket onderweg 1 5688 HB, Oirschot": {
-        "Latitude": 51.4769345,
-        "Longitude": 5.3859431
+        "Latitude": 51.477049,
+        "Longitude": 5.385959199999999
     },
     "Kazemat 32 3905 NR, Veenendaal": {
         "Latitude": 52.0464467,
@@ -640,8 +640,8 @@
         "Longitude": 6.293272
     },
     "Popeweg 50 5928 SC, Venlo": {
-        "Latitude": 51.4085813,
-        "Longitude": 6.0920874
+        "Latitude": 51.408583,
+        "Longitude": 6.092086
     },
     "Heierhoevenweg 17 5928 RN, Venlo": {
         "Latitude": 51.4047693,
@@ -652,24 +652,24 @@
         "Longitude": 5.8745985
     },
     "Logistiekweg 2 5928 SG, Venlo": {
-        "Latitude": 51.4109433,
-        "Longitude": 6.0941644
+        "Latitude": 51.4098964,
+        "Longitude": 6.092734999999999
     },
     "Vuurijzer 23 5753 SV, Deurne": {
-        "Latitude": 51.4550423,
-        "Longitude": 5.7658111
+        "Latitude": 51.454971,
+        "Longitude": 5.7658226
     },
     "Casablancaweg 7 1047 HP, Amsterdam": {
         "Latitude": 52.4024429,
         "Longitude": 4.7550366
     },
     "Casablancaweg 9 1047 HP, Amsterdam": {
-        "Latitude": 52.4028953,
-        "Longitude": 4.7516177
+        "Latitude": 52.40237699999999,
+        "Longitude": 4.752869400000001
     },
     "Kaapstadweg 50 1047 HK, Amsterdam": {
-        "Latitude": 52.4107912,
-        "Longitude": 4.7343886
+        "Latitude": 52.4066003,
+        "Longitude": 4.734058999999999
     },
     "Daltonstraat 24 3846 BX, Harderwijk": {
         "Latitude": 52.3626852,
@@ -680,64 +680,64 @@
         "Longitude": 4.7623234
     },
     "Achtseweg Noord 25 5651 GG, Eindhoven": {
-        "Latitude": 51.4787553,
-        "Longitude": 5.405847
+        "Latitude": 51.4793108,
+        "Longitude": 5.4085377
     },
     "Beitel 80 6422 PB, Heerlen": {
-        "Latitude": 50.8480866,
-        "Longitude": 6.0042824
+        "Latitude": 50.8479509,
+        "Longitude": 6.0032584
     },
     "Inundatiedok 38 3439 JJ, Nieuwegein": {
-        "Latitude": 52.0240706,
-        "Longitude": 5.1232191
+        "Latitude": 52.0237056,
+        "Longitude": 5.1243861
     },
     "Logistiekweg 15 4906 AB, Oosterhout NB": {
-        "Latitude": 51.6704525,
-        "Longitude": 4.8452295
+        "Latitude": 51.6707275,
+        "Longitude": 4.846445999999999
     },
     "Fahrenheitweg 11 6101 WR, Echt": {
-        "Latitude": 51.1231044,
-        "Longitude": 5.8904759
+        "Latitude": 51.1232119,
+        "Longitude": 5.8886182
     },
     "Wagonstraat 2 4704 RC, Roosendaal": {
         "Latitude": 51.5570443,
         "Longitude": 4.4775133
     },
     "Letostraat 33 5047 RP, Tilburg": {
-        "Latitude": 51.6017082,
-        "Longitude": 4.9845688
+        "Latitude": 51.60171700000001,
+        "Longitude": 4.984582
     },
     "Grote Tocht 31 1507 CG, Zaandam": {
         "Latitude": 52.4251577,
         "Longitude": 4.8091707
     },
     "Amert 409 5462 GH, Veghel": {
-        "Latitude": 51.6208227,
-        "Longitude": 5.5131952
+        "Latitude": 51.6221292,
+        "Longitude": 5.5109492
     },
     "Amert 602 5462 GH, Veghel": {
-        "Latitude": 51.6247062,
-        "Longitude": 5.5134614
+        "Latitude": 51.6246148,
+        "Longitude": 5.5139428
     },
     "Ravenswade 14 3439 LD, Nieuwegein": {
-        "Latitude": 52.0535426,
-        "Longitude": 5.1190428
+        "Latitude": 52.0520118,
+        "Longitude": 5.1179426
     },
     "Finse Golf 7 3446 CK, Woerden": {
         "Latitude": 52.0766223,
         "Longitude": 4.9101497
     },
     "Rijksweg 15 5462 CE, Veghel": {
-        "Latitude": 51.6125495,
-        "Longitude": 5.5261044
+        "Latitude": 51.612555,
+        "Longitude": 5.526092999999999
     },
     "Laan van Mathenesse 1 2665 MZ, Bleiswijk": {
         "Latitude": 52.0334928,
         "Longitude": 4.5313482
     },
     "Almelosestraat 52 8102 HD, Raalte": {
-        "Latitude": 52.3823729,
-        "Longitude": 6.2845189
+        "Latitude": 52.3821828,
+        "Longitude": 6.2844668
     },
     "De Diepert 5 4004 MA, Tiel": {
         "Latitude": 51.9087333,
@@ -748,16 +748,16 @@
         "Longitude": 5.9959179
     },
     "Wilhelminaweg 8 6951 BP, Dieren": {
-        "Latitude": 52.0470383,
-        "Longitude": 6.1042255
+        "Latitude": 52.0475138,
+        "Longitude": 6.1046646
     },
     "Marshallweg 1 5466 AH, Veghel": {
         "Latitude": 51.6089481,
         "Longitude": 5.514529
     },
     "Waarderweg 39 2031 BN, Haarlem": {
-        "Latitude": 52.390582,
-        "Longitude": 4.6618807
+        "Latitude": 52.3910259,
+        "Longitude": 4.661003399999999
     },
     "Stichtse Kade 47 1244 NV, Ankeveen": {
         "Latitude": 52.260581,
@@ -788,8 +788,8 @@
         "Longitude": 5.996444
     },
     "Havenstraat 11 5348 LD, Oss": {
-        "Latitude": 51.77425,
-        "Longitude": 5.5459286
+        "Latitude": 51.7741345,
+        "Longitude": 5.546424399999999
     },
     "Australi\u00ebhavenweg 100 1046 BP, Amsterdam": {
         "Latitude": 52.3959336,
@@ -800,16 +800,16 @@
         "Longitude": 6.0102162
     },
     "Industrielaan 2 5061 KC, Oisterwijk": {
-        "Latitude": 51.5834119,
-        "Longitude": 5.1941966
+        "Latitude": 51.5835022,
+        "Longitude": 5.1944072
     },
     "Wattweg 4 4631 SM, Hoogerheide": {
-        "Latitude": 51.427074,
-        "Longitude": 4.3506311
+        "Latitude": 51.4270492,
+        "Longitude": 4.3502466
     },
     "Albert Einsteinweg 11 6045 GX, Roermond": {
-        "Latitude": 51.1668745,
-        "Longitude": 6.0351333
+        "Latitude": 51.1674924,
+        "Longitude": 6.0355301
     },
     "Elzenweg 12 3421 TT, Oudewater": {
         "Latitude": 52.0361833,
@@ -820,24 +820,24 @@
         "Longitude": 4.7493012
     },
     "Vorstengrafdonk 63 5342 LW, Oss": {
-        "Latitude": 51.7350216,
-        "Longitude": 5.561976
+        "Latitude": 51.7351593,
+        "Longitude": 5.561986399999999
     },
     "Doornhoek 3765 5465 TA, Veghel": {
-        "Latitude": 51.6051431,
-        "Longitude": 5.5348236
+        "Latitude": 51.6050994,
+        "Longitude": 5.5348713
     },
     "Hollandhaven 1 3433 PD, Nieuwegein": {
-        "Latitude": 52.0165107,
-        "Longitude": 5.0993938
+        "Latitude": 52.016732,
+        "Longitude": 5.101230999999999
     },
     "Amersfoortseweg 9 3751 LJ, Bunschoten": {
         "Latitude": 52.2284093,
         "Longitude": 5.3709815
     },
     "Vinkenweg 32 2231 NS, Rijnsburg": {
-        "Latitude": 52.1985005,
-        "Longitude": 4.4540116
+        "Latitude": 52.19835399999999,
+        "Longitude": 4.45486
     },
     "Klappolder 150 2665 LP, Bleiswijk": {
         "Latitude": 52.0274951,
@@ -852,8 +852,8 @@
         "Longitude": 5.3056728
     },
     "Jan de Oudeweg 250 2628 XM, Delft": {
-        "Latitude": 52.0059666,
-        "Longitude": 4.3823284
+        "Latitude": 52.00593199999999,
+        "Longitude": 4.3820099
     },
     "Notarisappel 64 4191 DZ, Geldermalsen": {
         "Latitude": 51.8831809,
@@ -872,36 +872,36 @@
         "Longitude": 5.2916786
     },
     "Rivierendal 32 4051 CH, Ochten": {
-        "Latitude": 51.9145687,
-        "Longitude": 5.5884027
+        "Latitude": 51.91576509999999,
+        "Longitude": 5.5874761
     },
     "Prof. Veltmanweg 1 5144 NB, Waalwijk": {
-        "Latitude": 51.6782199,
-        "Longitude": 5.0554993
+        "Latitude": 51.6782292,
+        "Longitude": 5.055053
     },
     "Violierenweg 2 2665 MV, Bleiswijk": {
         "Latitude": 52.0307955,
         "Longitude": 4.528044
     },
     "Kabeljauwsestraat 32 3036 LW, Rotterdam": {
-        "Latitude": 51.9398265,
-        "Longitude": 4.4825474
+        "Latitude": 51.9398272,
+        "Longitude": 4.4825712
     },
     "Rijnstraat 34 4191 CL, Geldermalsen": {
         "Latitude": 51.8879462,
         "Longitude": 5.3006542
     },
     "Boezemweg 165 3031 BH, Rotterdam": {
-        "Latitude": 51.9249669,
-        "Longitude": 4.4956584
+        "Latitude": 51.924565,
+        "Longitude": 4.4959457
     },
     "Rijksstraatweg 37 4191 SC, Geldermalsen": {
         "Latitude": 51.8740631,
         "Longitude": 5.2881969
     },
     "Westpark 6 2771 TA, Boskoop": {
-        "Latitude": 52.0752281,
-        "Longitude": 4.6325495
+        "Latitude": 52.0751827,
+        "Longitude": 4.6329107
     },
     "Prinsenhof 1 4191 ES, Geldermalsen": {
         "Latitude": 51.8800232,
@@ -912,8 +912,8 @@
         "Longitude": 5.2672925
     },
     "Laan van Meerdervoort 51 2517 AE, Den Haag": {
-        "Latitude": 52.0850527,
-        "Longitude": 4.2949744
+        "Latitude": 52.0850636,
+        "Longitude": 4.2949243
     },
     "Dreef 42 4014 ML, Wadenoijen": {
         "Latitude": 51.8696726,
@@ -924,36 +924,36 @@
         "Longitude": 5.4144114
     },
     "Empelseweg 62 5236 PA, \u2018s-Hertogenbosch": {
-        "Latitude": 51.7282194,
-        "Longitude": 5.3295484
+        "Latitude": 51.72876489999999,
+        "Longitude": 5.330032
     },
     "Marktplein 6 4191 AC, Geldermalsen": {
         "Latitude": 51.8834471,
         "Longitude": 5.2884668
     },
     "Reykjavikstraat 422 3543 KB, Utrecht": {
-        "Latitude": 52.0993449,
-        "Longitude": 5.0645021
+        "Latitude": 52.0997584,
+        "Longitude": 5.0644864
     },
     "Professor Feldmannweg 1 8015 PB, Zwolle": {
         "Latitude": 52.4720584,
         "Longitude": 6.1113803
     },
     "Heidehoeksweg 7 8091 BC, Wezep": {
-        "Latitude": 52.4495825,
-        "Longitude": 5.9891249
+        "Latitude": 52.4496056,
+        "Longitude": 5.989131400000001
     },
     "Hardenbergerweg 20 7696 BC, Brucht": {
         "Latitude": 52.5506612,
         "Longitude": 6.6055112
     },
     "Ooijenseweg 14 5863 AM, Blitterswijck": {
-        "Latitude": 51.5261275,
-        "Longitude": 6.1111632
+        "Latitude": 51.525282,
+        "Longitude": 6.1086779
     },
     "Keizersveld 12 5803 AN, Venray": {
-        "Latitude": 51.5406009,
-        "Longitude": 5.9938045
+        "Latitude": 51.5406787,
+        "Longitude": 5.9934952
     },
     "Ambachtstraat 30 5804 CD, Venray": {
         "Latitude": 51.5421548,
@@ -976,8 +976,8 @@
         "Longitude": 6.1997028
     },
     "De Conifeer 1 5807 GV, Oostrum": {
-        "Latitude": 51.5257915,
-        "Longitude": 6.0016832
+        "Latitude": 51.5262638,
+        "Longitude": 6.001313
     },
     "Erik de Rodeweg 5 5975 WD, Sevenum": {
         "Latitude": 51.4000517,
@@ -988,8 +988,8 @@
         "Longitude": 6.0943546
     },
     "Straelseweg 109 5911 CN, Venlo": {
-        "Latitude": 51.3751627,
-        "Longitude": 6.1779205
+        "Latitude": 51.375281,
+        "Longitude": 6.1776874
     },
     "Den Alerdinckweg 4 8055 PE, Laag Zuthem": {
         "Latitude": 52.4548369,
@@ -1000,8 +1000,8 @@
         "Longitude": 5.8596424
     },
     "Balenhoek 2 3930, Hamont-Achel": {
-        "Latitude": 51.241290649999996,
-        "Longitude": 5.545090867232968
+        "Latitude": 51.2413264,
+        "Longitude": 5.545164199999999
     },
     "Meuserstraat 118 6464 EG, Kerkrade": {
         "Latitude": 50.8822136,
@@ -1050,5 +1050,1081 @@
     "Tramsingel 16 4814 AB, Breda": {
         "Latitude": 51.591928,
         "Longitude": 4.768816999999999
+    },
+    "Edisonstraat 2 5807 GG, Oostrum Lb": {
+        "Latitude": 51.5168875,
+        "Longitude": 6.010703899999999
+    },
+    "Vennootstraat 2 5804 CN, Venray": {
+        "Latitude": 51.5456218,
+        "Longitude": 5.9809326
+    },
+    "Nobelstraat 1 5807 GA, Oostrum Lb": {
+        "Latitude": 51.5194066,
+        "Longitude": 6.0123999
+    },
+    "Wattstraat 2 5807 GB, Oostrum Lb": {
+        "Latitude": 51.5171632,
+        "Longitude": 6.0137151
+    },
+    "Marga Klompeweg 10 5032 MP, Tilburg": {
+        "Latitude": 51.5342019,
+        "Longitude": 5.0344691
+    },
+    "Dongenseweg 200 5047 SH, Tilburg": {
+        "Latitude": 51.6036999,
+        "Longitude": 5.0093652
+    },
+    "Bellstraat 20 5807 GE, Oostrum Lb": {
+        "Latitude": 51.5163376,
+        "Longitude": 6.0168681
+    },
+    "Bylandt 5 6916 KA, Tolkamer": {
+        "Latitude": 51.8638199,
+        "Longitude": 6.074290599999999
+    },
+    "Kanaalweg 3 5995 NX, Kessel Lb": {
+        "Latitude": 51.2726078,
+        "Longitude": 6.0114557
+    },
+    "Nieuwhuisweg 20 5804 AN, Venray": {
+        "Latitude": 51.538783,
+        "Longitude": 5.984522
+    },
+    "De Posthoornstraat 1 5048 AS, Tilburg": {
+        "Latitude": 51.5896378,
+        "Longitude": 5.0584182
+    },
+    "Rietgraaf 10 6678 PJ, Oosterhout Gld": {
+        "Latitude": 51.8855102,
+        "Longitude": 5.8188691
+    },
+    "Florijnstraat 2 4903 RM, Oosterhout NB": {
+        "Latitude": 51.62418090000001,
+        "Longitude": 4.8717556
+    },
+    "Akkerweg 1 4691 SV, Tholen": {
+        "Latitude": 51.5416921,
+        "Longitude": 4.2047315
+    },
+    "Dorpsstraat 43 6871 AC, Renkum": {
+        "Latitude": 51.9723365,
+        "Longitude": 5.7310897
+    },
+    "Zuiderhout 105 4904 AW, Oosterhout": {
+        "Latitude": 51.627609,
+        "Longitude": 4.859172
+    },
+    "Boterdorpseweg 10 2661 AC, Bergschenhoek": {
+        "Latitude": 51.9824651,
+        "Longitude": 4.4946972
+    },
+    "Gyroscoopweg 10 1042 AB, Amsterdam": {
+        "Latitude": 52.3988057,
+        "Longitude": 4.8422328
+    },
+    "Hemelrijken 101 5612 LC, Eindhoven": {
+        "Latitude": 51.4471917,
+        "Longitude": 5.471640499999999
+    },
+    "Klompenmaker 18 5253 AP, Nieuwkuijk": {
+        "Latitude": 51.7010046,
+        "Longitude": 5.1809527
+    },
+    "Wolvenhoek 1 5211 HH, 's-Hertogenbosch": {
+        "Latitude": 51.686895,
+        "Longitude": 5.3028821
+    },
+    "De Vutter 9 5221 BD, 's-Hertogenbosch": {
+        "Latitude": 51.7151057,
+        "Longitude": 5.2621969
+    },
+    "Minosstraat 20 5048 CR, Tilburg": {
+        "Latitude": 51.5972174,
+        "Longitude": 5.0330835
+    },
+    "Ranonkelstraat 15 6833 AS, Arnhem": {
+        "Latitude": 51.9694977,
+        "Longitude": 5.9102372
+    },
+    "Magnoliastraat 40 5151 XH, Drunen": {
+        "Latitude": 51.691542,
+        "Longitude": 5.1257472
+    },
+    "Spinnakerplantsoen 36 1319 DG, Almere": {
+        "Latitude": 52.39361479999999,
+        "Longitude": 5.1756156
+    },
+    "Eendegoor 1 5095 AA, Hooge Mierde": {
+        "Latitude": 51.3790388,
+        "Longitude": 5.102672
+    },
+    "Heukelomseweg 30 5059 AK, Heukelom": {
+        "Latitude": 51.57601649999999,
+        "Longitude": 5.1578998
+    },
+    "Touwslagerijweg 4 4906 CS, Oosterhout NB": {
+        "Latitude": 51.6647026,
+        "Longitude": 4.8403014
+    },
+    "Columbusweg 16 5829 LC, Venlo": {
+        "Latitude": 51.399545,
+        "Longitude": 6.096183
+    },
+    "Wagenaarstraat 263 5343 CG, Oss": {
+        "Latitude": 51.7509077,
+        "Longitude": 5.5175535
+    },
+    "Ambachtstraat 38 5804 CD, Venray": {
+        "Latitude": 51.5448897,
+        "Longitude": 5.9746231
+    },
+    "De Grinderij 1 6049 GV, Herten": {
+        "Latitude": 51.1594332,
+        "Longitude": 5.9523764
+    },
+    "Boterberg 30 5047 ST, Tilburg": {
+        "Latitude": 51.587605,
+        "Longitude": 5.026053699999999
+    },
+    "De Maas 2 5684 PL, Best": {
+        "Latitude": 51.4897924,
+        "Longitude": 5.3924089
+    },
+    "Tasveld 1 3417 XS, Montfoort": {
+        "Latitude": 52.0426356,
+        "Longitude": 4.934676
+    },
+    "Bijsterhuizen 1127 6546 AR, Nijmegen": {
+        "Latitude": 51.826868,
+        "Longitude": 5.762926999999999
+    },
+    "Het Sterrenbeeld 28 5215 ML, 's-Hertogenbosch": {
+        "Latitude": 51.6877801,
+        "Longitude": 5.356905299999999
+    },
+    "Albert Einsteinweg 10 5151 DL, Drunen": {
+        "Latitude": 51.694337,
+        "Longitude": 5.155584000000001
+    },
+    "Engelsestraat 4 3028 CG, Rotterdam": {
+        "Latitude": 51.9144407,
+        "Longitude": 4.4221957
+    },
+    "Burgemeester Janssenstraat 30 6191 JC, Beek": {
+        "Latitude": 50.939324,
+        "Longitude": 5.797370799999999
+    },
+    "Malcom McLeanstraat 4 5975 WG, Sevenum": {
+        "Latitude": 51.41583319999999,
+        "Longitude": 6.076567799999999
+    },
+    "Schouwrooij 18 5281 RE, Boxtel": {
+        "Latitude": 51.58158539999999,
+        "Longitude": 5.3065681
+    },
+    "Marco Poloweg 22 5928 LE, Venlo": {
+        "Latitude": 51.4025701,
+        "Longitude": 6.0780891
+    },
+    "Hongarijehof 3 1363 CC, Almere": {
+        "Latitude": 52.3458579,
+        "Longitude": 5.1523987
+    },
+    "Drijfanker 24 1319 DB, Almere": {
+        "Latitude": 52.3933969,
+        "Longitude": 5.178717499999999
+    },
+    "Op den Akker 13 5925 CD, Venlo": {
+        "Latitude": 51.3760686,
+        "Longitude": 6.130703
+    },
+    "Earl Bakkenstraat 10 6422 PJ, Heerlen": {
+        "Latitude": 50.8406572,
+        "Longitude": 6.009941599999999
+    },
+    "Paulijnenveld 13 4702 XX, Roosendaal": {
+        "Latitude": 51.5382381,
+        "Longitude": 4.4670501
+    },
+    "Tasmanweg 14 5928 LH, Venlo": {
+        "Latitude": 51.40044409999999,
+        "Longitude": 6.0929346
+    },
+    "Stanleyweg 8 5928 LR, Venlo": {
+        "Latitude": 51.4020417,
+        "Longitude": 6.089400599999999
+    },
+    "Achtseweg Noord 36 5651 GG, Eindhoven": {
+        "Latitude": 51.4694357,
+        "Longitude": 5.4264047
+    },
+    "Th.Schwartzestraat 85 1328 CB, Almere": {
+        "Latitude": 52.3800721,
+        "Longitude": 5.2612767
+    },
+    "De Posthoornstraat 7 5048 AS, Tilburg": {
+        "Latitude": 51.5865898,
+        "Longitude": 5.0568041
+    },
+    "Marco Poloweg 26 5928 LE, Venlo": {
+        "Latitude": 51.4031528,
+        "Longitude": 6.0742838
+    },
+    "Achtseweg Noord 30 5651 GG, Eindhoven": {
+        "Latitude": 51.4701014,
+        "Longitude": 5.424822199999999
+    },
+    "van Spreeuwelstraat 12 5081 ZC, Hilvarenbeek": {
+        "Latitude": 51.4881711,
+        "Longitude": 5.132696699999999
+    },
+    "Tasmanweg 9 5928 LH, Venlo": {
+        "Latitude": 51.401694,
+        "Longitude": 6.091256
+    },
+    "Wolgaweg 17 3198 LR, Europoort Rt": {
+        "Latitude": 51.923807,
+        "Longitude": 4.186477
+    },
+    "Vossendonk 1 4942 CD, Raamsdonksveer": {
+        "Latitude": 51.7062527,
+        "Longitude": 4.8796198
+    },
+    "Beneluxlaan 51 5042 WK, Tilburg": {
+        "Latitude": 51.5743844,
+        "Longitude": 5.0502346
+    },
+    "Waardenburglaan 23 4006 ES, Tiel": {
+        "Latitude": 51.8804564,
+        "Longitude": 5.4148064
+    },
+    "Bladelstraat 61 6844 AG, Arnhem": {
+        "Latitude": 51.9481865,
+        "Longitude": 5.8630084
+    },
+    "Meester Werkmanstraat 30 7447 RZ, Hellendoorn": {
+        "Latitude": 52.4157842,
+        "Longitude": 6.4864738
+    },
+    "Da Vincistraat 5 2652 XE, Berkel en Rodenrijs": {
+        "Latitude": 51.9773959,
+        "Longitude": 4.437515299999999
+    },
+    "Hurksestraat 34 5652 AL, Eindhoven": {
+        "Latitude": 51.4343627,
+        "Longitude": 5.4335187
+    },
+    "Holtum-Noordweg 40 6121 RE, Born": {
+        "Latitude": 51.0674194,
+        "Longitude": 5.8197958
+    },
+    "Jozef Isra\u00eblslaan 206 1328 CK, Almere": {
+        "Latitude": 52.3798827,
+        "Longitude": 5.2625006
+    },
+    "Achtseweg Noord 4 5651 GG, Eindhoven": {
+        "Latitude": 51.4746931,
+        "Longitude": 5.4148797
+    },
+    "Muiderschans 73 3432 XC, Nieuwegein": {
+        "Latitude": 52.0194524,
+        "Longitude": 5.0909426
+    },
+    "Gasthuisstraat 20 4001 BE, Tiel": {
+        "Latitude": 51.887553,
+        "Longitude": 5.4351376
+    },
+    "Ierlandlaan 1 6199 AR, Maastricht-Airport": {
+        "Latitude": 50.9156473,
+        "Longitude": 5.7962251
+    },
+    "Columbus 28 7609 RM, Almelo": {
+        "Latitude": 52.319996,
+        "Longitude": 6.6347862
+    },
+    "Siriusstraat 55 5015 BT, Tilburg": {
+        "Latitude": 51.5738347,
+        "Longitude": 5.1087791
+    },
+    "Nistelrodesedijk 1 5472 LB, Loosbroek": {
+        "Latitude": 51.6679344,
+        "Longitude": 5.5103525
+    },
+    "Pakketweg 2 5145 NG, Waalwijk": {
+        "Latitude": 51.70185739999999,
+        "Longitude": 5.0693896
+    },
+    "Beekstraat 45 7311 NV, Apeldoorn": {
+        "Latitude": 52.2143009,
+        "Longitude": 5.966022
+    },
+    "James Tobinstraat 1 5928 SL, Venlo": {
+        "Latitude": 51.4094401,
+        "Longitude": 6.0930958
+    },
+    "Helmondsingel 139 5751 PA, Deurne": {
+        "Latitude": 51.4692417,
+        "Longitude": 5.7243888
+    },
+    "Sint Gerlach 5 6301 JA, Valkenburg": {
+        "Latitude": 50.8716194,
+        "Longitude": 5.8023283
+    },
+    "Beethovenstraat 158 4546 AH, Terneuzen": {
+        "Latitude": 51.3202778,
+        "Longitude": 3.8463889
+    },
+    "Ambachtsweg 2 3542 DG, Utrecht": {
+        "Latitude": 52.1222327,
+        "Longitude": 5.0464844
+    },
+    "Wittevrouwen 21 1358 CD, Almere": {
+        "Latitude": 52.31948879999999,
+        "Longitude": 5.3094994
+    },
+    "Suikerdijk 2 4551 BT, Sas van Gent": {
+        "Latitude": 51.2240996,
+        "Longitude": 3.7967812
+    },
+    "Riethil 3 4825 AP, Breda": {
+        "Latitude": 51.6062233,
+        "Longitude": 4.771732699999999
+    },
+    "Hemelrijken 99 5612 LC, Eindhoven": {
+        "Latitude": 51.4472276,
+        "Longitude": 5.4716118
+    },
+    "Stedekestraat 22 5041 DN, Tilburg": {
+        "Latitude": 51.5652116,
+        "Longitude": 5.080775399999999
+    },
+    "Eurolaan 10 2153 ND, Nieuw Vennep": {
+        "Latitude": 52.2531609,
+        "Longitude": 4.6228151
+    },
+    "Blankenweg 22 4612 RC, Bergen op Zoom": {
+        "Latitude": 51.4960914,
+        "Longitude": 4.256893700000001
+    },
+    "Schout van Doernestraat 52 5237 WH, 's-Hertogenbosch": {
+        "Latitude": 51.7374515,
+        "Longitude": 5.2774902
+    },
+    "Balkweg 2 5232 BV, 's-Hertogenbosch": {
+        "Latitude": 51.7071947,
+        "Longitude": 5.3328809
+    },
+    "Kastanjelaan 105 105 4621 HE, Bergen op Zoom": {
+        "Latitude": 51.4942577,
+        "Longitude": 4.299147
+    },
+    "Erik de Rodeweg 7 5975 WD, Sevenum": {
+        "Latitude": 51.399099,
+        "Longitude": 6.070697
+    },
+    "Stationssingel 31 5371 BB, Ravenstein": {
+        "Latitude": 51.796791,
+        "Longitude": 5.643971899999999
+    },
+    "Facetlaan 6 2665 NR, Bleiswijk": {
+        "Latitude": 52.03879430000001,
+        "Longitude": 4.5354257
+    },
+    "Molenstrat 201 5701 KD, Helmond": {
+        "Latitude": 51.4785097,
+        "Longitude": 5.6594
+    },
+    "Sluispolderweg 40 1505 HK, Zaandam": {
+        "Latitude": 52.4194697,
+        "Longitude": 4.8522576
+    },
+    "Voorstenkamp 1142 6545 EH, Nijmegen": {
+        "Latitude": 51.8272494,
+        "Longitude": 5.7971027
+    },
+    "Stationstraat 43 5038 EC, Tilburg": {
+        "Latitude": 51.55811989999999,
+        "Longitude": 5.0818384
+    },
+    "Westvlietweg 7 2491 EA, 's-Gravenhage": {
+        "Latitude": 52.0719502,
+        "Longitude": 4.3847334
+    },
+    "Stationsstraat 93 93 3930, Hamont-Achel": {
+        "Latitude": 51.24471519999999,
+        "Longitude": 5.5468686
+    },
+    "Meindert Hobbemastraat 77 1318 PB, Almere": {
+        "Latitude": 52.38366449999999,
+        "Longitude": 5.2581261
+    },
+    "Oosterscheldestraat 7 4535 GA, Terneuzen": {
+        "Latitude": 51.3123419,
+        "Longitude": 3.8510773
+    },
+    "Vrieheidepark 82 6414 JE, Heerlen": {
+        "Latitude": 50.9211631,
+        "Longitude": 5.9660699
+    },
+    "Marshallsingel 23 6414 GK, Heerlen": {
+        "Latitude": 50.91987169999999,
+        "Longitude": 5.9636646
+    },
+    "7Poort 8 6902 NA, Zevenaar": {
+        "Latitude": 51.9221515,
+        "Longitude": 6.1122676
+    },
+    "Looiersweg 2 5131 BE, Alphen": {
+        "Latitude": 51.4779898,
+        "Longitude": 4.9571155
+    },
+    "Tramstraat 23 5611 CN, Eindhoven": {
+        "Latitude": 51.4395144,
+        "Longitude": 5.483628599999999
+    },
+    "De Schakel 40 5651 GH, Eindhoven": {
+        "Latitude": 51.474153,
+        "Longitude": 5.4121843
+    },
+    "De Keten 15 5651 GJ, Eindhoven": {
+        "Latitude": 51.46868990000001,
+        "Longitude": 5.4087194
+    },
+    "Goudplevier 79 5348 ZB, Oss": {
+        "Latitude": 51.7714813,
+        "Longitude": 5.548426699999999
+    },
+    "Bankierbaan 260 1315 MA, Almere": {
+        "Latitude": 52.37165719999999,
+        "Longitude": 5.218604099999999
+    },
+    "Pontianakstraat 13 1335 HE, Almere": {
+        "Latitude": 52.3978468,
+        "Longitude": 5.2873693
+    },
+    "Hoefakkerstraat 59 5014 JB, Tilburg": {
+        "Latitude": 51.5658877,
+        "Longitude": 5.092291599999999
+    },
+    "Dardanellenstraat 90 3199 KZ, Maasvlakte RT": {
+        "Latitude": 51.9405466,
+        "Longitude": 4.0164496
+    },
+    "Holtum-Noordweg 11 6121 RE, Born": {
+        "Latitude": 51.0632039,
+        "Longitude": 5.8196642
+    },
+    "Lietingstraat 45 5368 AB, Haren": {
+        "Latitude": 51.80716200000001,
+        "Longitude": 5.584462
+    },
+    "Markermeer 1 5347 JM, Oss": {
+        "Latitude": 51.7820012,
+        "Longitude": 5.5557072
+    },
+    "Essenstraat 2 6444 CM, Brunssum": {
+        "Latitude": 50.9441953,
+        "Longitude": 5.9633045
+    },
+    "Drumptselaan 60 4003 HC, Tiel": {
+        "Latitude": 51.8980195,
+        "Longitude": 5.413282
+    },
+    "Prestwickweg 1 1118 LC, Luchthaven Schiphol": {
+        "Latitude": 52.2927756,
+        "Longitude": 4.7673006
+    },
+    "Bussiness Park Stein 323 6181 MC, Elsloo Lb": {
+        "Latitude": 50.95352490000001,
+        "Longitude": 5.7824538
+    },
+    "Drumptselaan 47 4003 HB, Tiel": {
+        "Latitude": 51.8983701,
+        "Longitude": 5.4132532
+    },
+    "Heldinnenlaan 199 3543 MB, Utrecht": {
+        "Latitude": 52.1187642,
+        "Longitude": 5.028535199999999
+    },
+    "Plantage 25 8212 VB, Lelystad": {
+        "Latitude": 52.5113321,
+        "Longitude": 5.5045397
+    },
+    "Zuidelijke Havenweg 1 7554 RR, Hengelo Ov": {
+        "Latitude": 52.2455229,
+        "Longitude": 6.7830458
+    },
+    "Staringstraat 320 5343 GN, Oss": {
+        "Latitude": 51.7474897,
+        "Longitude": 5.5144188
+    },
+    "Faunalaan 50 5928 RZ, Venlo": {
+        "Latitude": 51.39763929999999,
+        "Longitude": 6.1302999
+    },
+    "Hoefakkerstraat 57 5014 JB, Tilburg": {
+        "Latitude": 51.5658697,
+        "Longitude": 5.0924622
+    },
+    "Teilingen 1 1082 JP, Amsterdam": {
+        "Latitude": 52.3275653,
+        "Longitude": 4.8719611
+    },
+    "Enschotsestraat 155 5014 DD, Tilburg": {
+        "Latitude": 51.5643948,
+        "Longitude": 5.098206600000001
+    },
+    "Dominee Jan Scharpstraat 19 4571 GX, Axel": {
+        "Latitude": 51.2681385,
+        "Longitude": 3.9043504
+    },
+    "Boelijn 168 1319 DP, Almere": {
+        "Latitude": 52.3959456,
+        "Longitude": 5.1747735
+    },
+    "Dickensstraat 47 3076 SB, Rotterdam": {
+        "Latitude": 51.8741453,
+        "Longitude": 4.5166201
+    },
+    "Het Sas 14 5131 RE, Alphen NB": {
+        "Latitude": 51.4693362,
+        "Longitude": 4.9845874
+    },
+    "Tolhuis 3523 6537 NN, Nijmegen": {
+        "Latitude": 51.8154248,
+        "Longitude": 5.788584
+    },
+    "Kloosterstraat 37 6051 JB, Maasbracht": {
+        "Latitude": 51.1477983,
+        "Longitude": 5.9001883
+    },
+    "Karissteeg 12 6131 PH, Nederweert": {
+        "Latitude": 51.3100638,
+        "Longitude": 5.7279499
+    },
+    "Sint Sebastiaanskapelstraat 24 6003 NT, Weert": {
+        "Latitude": 51.279611,
+        "Longitude": 5.7213519
+    },
+    "Castorstraat 13 5047 RC, Tilburg": {
+        "Latitude": 51.59600529999999,
+        "Longitude": 5.0012485
+    },
+    "Bultenvenweg 30 5916 RW, Venlo": {
+        "Latitude": 51.39573009999999,
+        "Longitude": 6.2145892
+    },
+    "Boezembocht 33 3034 KA, Rotterdam": {
+        "Latitude": 51.9418663,
+        "Longitude": 4.4971413
+    },
+    "Kattenstraat 15 4101 BL, Culemborg": {
+        "Latitude": 51.9584173,
+        "Longitude": 5.2235851
+    },
+    "Brabantsehoek 14 5071 NM, Udenhout": {
+        "Latitude": 51.6101255,
+        "Longitude": 5.165877
+    },
+    "Tweede Hambaken 61 5231 RL, Den Bosch": {
+        "Latitude": 51.7111823,
+        "Longitude": 5.3087772
+    },
+    "Rijndijk 53 2394 AC, Hazerswoude": {
+        "Latitude": 52.1311944,
+        "Longitude": 4.559126
+    },
+    "Eijkereind 29 5571 EA, Bergeijk": {
+        "Latitude": 51.3222402,
+        "Longitude": 5.3709148
+    },
+    "Kwartelstraat 35 4815 BB, Breda": {
+        "Latitude": 51.5967423,
+        "Longitude": 4.7743186
+    },
+    "Wattweg 29 4622 RA, Bergen op Zoom": {
+        "Latitude": 51.5047608,
+        "Longitude": 4.307783
+    },
+    "Veldweg 3 6075 NL, Herkenbosch": {
+        "Latitude": 51.1670391,
+        "Longitude": 6.0671909
+    },
+    "Kellenseweg 2 4004 JD, Tiel": {
+        "Latitude": 51.90582449999999,
+        "Longitude": 5.444562400000001
+    },
+    "James Tobinstraat 2 5928 SL, Venlo": {
+        "Latitude": 51.4094401,
+        "Longitude": 6.0930958
+    },
+    "Marijkestraat 9 4542 AS, Hoek": {
+        "Latitude": 51.3070688,
+        "Longitude": 3.7800655
+    },
+    "Techniekweg 1 3401 MH, IJsselstein Ut": {
+        "Latitude": 52.011095,
+        "Longitude": 5.0593107
+    },
+    "Poseidonweg 6 8239 DK, Lelystad": {
+        "Latitude": 52.4751852,
+        "Longitude": 5.4852703
+    },
+    "Steenweg op Antwerpen 18 2300, Turnhout": {
+        "Latitude": 51.3200492,
+        "Longitude": 4.9244251
+    },
+    "Koning Albertstraat 128 - 130 2381, Ravels": {
+        "Latitude": 51.4108755,
+        "Longitude": 4.9990484
+    },
+    "Ochoaweg 16 8218 PK, Lelystad": {
+        "Latitude": 52.4682488,
+        "Longitude": 5.4996141
+    },
+    "Smakterweg 110 5804 AM, Venray": {
+        "Latitude": 51.5457413,
+        "Longitude": 5.9874607
+    },
+    "Siriusstraat 11 5015 BT, Tilburg": {
+        "Latitude": 51.5784368,
+        "Longitude": 5.1128729
+    },
+    "Holtum Noordweg 20 6121 RE, Born": {
+        "Latitude": 51.064437,
+        "Longitude": 5.820634
+    },
+    "Columbusweg 33 5928 LA, Venlo": {
+        "Latitude": 51.3951504,
+        "Longitude": 6.100327099999999
+    },
+    "Stechbahn 13/4 L 13 47533, Kleve": {
+        "Latitude": 51.786384,
+        "Longitude": 6.135457199999999
+    },
+    "Julianastraat 1 5087 BA, Diessen": {
+        "Latitude": 51.4787803,
+        "Longitude": 5.1741616
+    },
+    "Oostkade 5 4541 HH, Sluiskil": {
+        "Latitude": 51.2815563,
+        "Longitude": 3.842175299999999
+    },
+    "IABC 5104 4814 RN, Breda": {
+        "Latitude": 51.5855125,
+        "Longitude": 4.728725499999999
+    },
+    "Noormansweg 3 4693 RP, Poortvliet": {
+        "Latitude": 51.5535009,
+        "Longitude": 4.1202311
+    },
+    "Boelijn 131 1319 CS, Almere": {
+        "Latitude": 52.393225,
+        "Longitude": 5.1766381
+    },
+    "Heukelomseweg 26 5059 AK, Heukelom": {
+        "Latitude": 51.5753456,
+        "Longitude": 5.156054999999999
+    },
+    "George Vancouverstraat 15 5975 RX, Sevenum": {
+        "Latitude": 51.40545299999999,
+        "Longitude": 6.072477999999999
+    },
+    "Olof Palmehof 86 1314 WE, Almere": {
+        "Latitude": 52.37692269999999,
+        "Longitude": 5.218738099999999
+    },
+    "Paterstraat 57 5025 KH, Tilburg": {
+        "Latitude": 51.5522461,
+        "Longitude": 5.073089
+    },
+    "Schansweg 27 4931 EM, Geertruidenberg": {
+        "Latitude": 51.7009528,
+        "Longitude": 4.845649499999999
+    },
+    "Louis Pasteurweg 1 6045 GW, Roermond": {
+        "Latitude": 51.1707348,
+        "Longitude": 6.033513699999999
+    },
+    "Spurkt 1 5804 AR, Venray": {
+        "Latitude": 51.5488101,
+        "Longitude": 5.9735836
+    },
+    "Zuideinde 31 1334 BX, Almere": {
+        "Latitude": 52.393472,
+        "Longitude": 5.279992
+    },
+    "Piri Reisweg 21 5975 RZ, Sevenum": {
+        "Latitude": 51.408479,
+        "Longitude": 6.074866999999999
+    },
+    "Amersfoortseweg 9 3751 LJ, Bunschoten Spakenburg": {
+        "Latitude": 52.22846970000001,
+        "Longitude": 5.371224799999999
+    },
+    "Vlaardingen Parallelweg 100 3131 DK, Vlaardingen": {
+        "Latitude": 51.9030369,
+        "Longitude": 4.3404655
+    },
+    "Notel 42 5688 NB, Oirschot": {
+        "Latitude": 51.5125256,
+        "Longitude": 5.321731199999999
+    },
+    "Leeuwerikstraat 5 5348 XA, Oss": {
+        "Latitude": 51.76821040000001,
+        "Longitude": 5.5416856
+    },
+    "Mispelhoefstraat 16 5651 GL, Eindhoven": {
+        "Latitude": 51.4777868,
+        "Longitude": 5.4187425
+    },
+    "Parklaan 34 6074 CL, Melick": {
+        "Latitude": 51.1598857,
+        "Longitude": 6.018907899999999
+    },
+    "Stationsplein 24 5611 AC, Eindhoven": {
+        "Latitude": 51.4422392,
+        "Longitude": 5.4790109
+    },
+    "De Run 4281 5503 LM, Veldhoven": {
+        "Latitude": 51.411528,
+        "Longitude": 5.423073899999999
+    },
+    "Herbert H. Dowweg 13 4542 NM, Hoek": {
+        "Latitude": 51.33159449999999,
+        "Longitude": 3.779902
+    },
+    "Frans Halslaan 22 3904 XJ, Veenendaal": {
+        "Latitude": 52.0201662,
+        "Longitude": 5.5440479
+    },
+    "Bokhovenseweg 8 5256 NC, Heusden gem Heusden": {
+        "Latitude": 51.7384006,
+        "Longitude": 5.209428099999999
+    },
+    "Hervensebaan 6 5232 JL, Den Bosch": {
+        "Latitude": 51.7040077,
+        "Longitude": 5.3245802
+    },
+    "Kwaadeindstraat 138 5041 JN, Tilbulg": {
+        "Latitude": 51.5661986,
+        "Longitude": 5.0673206
+    },
+    "Park Forum 1211 5657 HK, Eindhoven": {
+        "Latitude": 51.4423481,
+        "Longitude": 5.3827378
+    },
+    "Grotestraat 40 5931 CW, Tegelen": {
+        "Latitude": 51.3441391,
+        "Longitude": 6.1377295
+    },
+    "Smakterweg 100 5804 AM, Venray": {
+        "Latitude": 51.5439978,
+        "Longitude": 5.9850582
+    },
+    "Broekhovenseweg 182 5022 CA, Tilburg": {
+        "Latitude": 51.5438111,
+        "Longitude": 5.094767
+    },
+    "Haagse Schouwweg 10 2332 KG, Leiden": {
+        "Latitude": 52.1635102,
+        "Longitude": 4.4558027
+    },
+    "Westfields 1020 5688 HA, Oirschot": {
+        "Latitude": 51.4777844,
+        "Longitude": 5.3809096
+    },
+    "Meerstraat 46 6241 ND, Bunde": {
+        "Latitude": 50.9021073,
+        "Longitude": 5.7243469
+    },
+    "Strijpsestraat 157 5616 GP, Eindhoven": {
+        "Latitude": 51.4405876,
+        "Longitude": 5.4524801
+    },
+    "Tradeboulevard 4 4761 RL, Zevenbergen": {
+        "Latitude": 51.6571467,
+        "Longitude": 4.565351199999999
+    },
+    "Linie 11 6678 PK, Oosterhout Gld": {
+        "Latitude": 51.8879611,
+        "Longitude": 5.8137929
+    },
+    "Eggelstraat 1 6134 VT, Sittard": {
+        "Latitude": 50.9861144,
+        "Longitude": 5.8473561
+    },
+    "Putsebocht 132 3073 HS, Rotterdam": {
+        "Latitude": 51.8924567,
+        "Longitude": 4.4945088
+    },
+    "Wormerweg 10 1311 XB, Almere": {
+        "Latitude": 52.36188320000001,
+        "Longitude": 5.1729308
+    },
+    "Athenastraat 6 5047 RK, Tilburg": {
+        "Latitude": 51.6019054,
+        "Longitude": 4.9968433
+    },
+    "Van Houtenstraat 34 34 4623 XL, Bergen op Zoom": {
+        "Latitude": 51.4942643,
+        "Longitude": 4.3134209
+    },
+    "Lekkerstraat 6 3680, Maaseik": {
+        "Latitude": 51.09539,
+        "Longitude": 5.790916699999999
+    },
+    "Antonie van Leeuwenhoekweg 35 2408 AK, Alphen aan den Rijn": {
+        "Latitude": 52.1260163,
+        "Longitude": 4.6355252
+    },
+    "Voorstraat 106 8226 EZ, Lelystad": {
+        "Latitude": 52.494148,
+        "Longitude": 5.4854989
+    },
+    "Hammerstraat 7 8161 PH, Epe": {
+        "Latitude": 52.34383099999999,
+        "Longitude": 5.9957015
+    },
+    "IJsselmeerdijk 85 8221 RC, Lelystad": {
+        "Latitude": 52.5678157,
+        "Longitude": 5.5192304
+    },
+    "Hesperenzijstraat 6 5025 KW, Tilburg": {
+        "Latitude": 51.5499828,
+        "Longitude": 5.077052
+    },
+    "Beneluxstraat 1 5061 KD, Oisterwijk": {
+        "Latitude": 51.58499519999999,
+        "Longitude": 5.193471199999999
+    },
+    "Lingenstraat 3 8028 PM, Zwolle": {
+        "Latitude": 52.534307,
+        "Longitude": 6.167535000000001
+    },
+    "Boekerman 1 4751 XK, Oud Gastel": {
+        "Latitude": 51.5664825,
+        "Longitude": 4.4755705
+    },
+    "Meindert Hobbemastraat 11 1318 LA, Almere": {
+        "Latitude": 52.3815393,
+        "Longitude": 5.2527493
+    },
+    "Trancheeweg 7 6002 ST, Weert": {
+        "Latitude": 51.2505373,
+        "Longitude": 5.6443417
+    },
+    "Broekhovenseweg 180 5022 CA, Tilburg": {
+        "Latitude": 51.5438559,
+        "Longitude": 5.0947378
+    },
+    "Hallenstraat 8 5531 AB, Bladel": {
+        "Latitude": 51.3584466,
+        "Longitude": 5.2019474
+    },
+    "Menhirweg 15 5342 LS, Oss": {
+        "Latitude": 51.7400926,
+        "Longitude": 5.561516399999999
+    },
+    "Via Raeka 3 6003 NK, Weert": {
+        "Latitude": 51.2781455,
+        "Longitude": 5.7274869
+    },
+    "Drontermeer 5 5347 JJ, Oss": {
+        "Latitude": 51.7775475,
+        "Longitude": 5.5551602
+    },
+    "Mary Kingsleystraat 1 5928 SK, Venlo": {
+        "Latitude": 51.4091969,
+        "Longitude": 6.0858002
+    },
+    "Vioolstraat 30 4876 BX, Etten-Leur": {
+        "Latitude": 51.5629857,
+        "Longitude": 4.6369942
+    },
+    "Huissensestraat 103 6833 HN, Arnhem": {
+        "Latitude": 51.966826,
+        "Longitude": 5.9119087
+    },
+    "Laan van Mathenesse 9 2665 MZ, Bleiswijk": {
+        "Latitude": 52.0347283,
+        "Longitude": 4.5250026
+    },
+    "Atoom 115 3542 AA, Utrecht": {
+        "Latitude": 52.1079326,
+        "Longitude": 5.0652191
+    },
+    "Antoon Coolenstraat 10 4873 BV, Etten-Leur": {
+        "Latitude": 51.5644977,
+        "Longitude": 4.6461481
+    },
+    "Forelstraat 100 6833 BM, Arnhem": {
+        "Latitude": 51.9673958,
+        "Longitude": 5.9117673
+    },
+    "Kromme Spieringweg 164 2141 BP, Vijfhuizen": {
+        "Latitude": 52.3700218,
+        "Longitude": 4.7064337
+    },
+    "Hurksestraat 32 5652 AL, Eindhoven": {
+        "Latitude": 51.4340622,
+        "Longitude": 5.4346575
+    },
+    "Middenweg 1 5916 RW, Venlo": {
+        "Latitude": 51.3888255,
+        "Longitude": 6.2080287
+    },
+    "Hermelijnweg 20 4877 AE, Etten-Leur": {
+        "Latitude": 51.5726546,
+        "Longitude": 4.6151309
+    },
+    "Rietbeemdweg 5 5705 BH, Helmond": {
+        "Latitude": 51.4677932,
+        "Longitude": 5.6676001
+    },
+    "Kerkweg 18 7448 AD, Haarle": {
+        "Latitude": 52.3598319,
+        "Longitude": 6.382235199999999
+    },
+    "Spurkterweg 65 5804 AP, Venray": {
+        "Latitude": 51.5433998,
+        "Longitude": 5.976865200000001
+    },
+    "Lutterveldweg 19 4005 LD, Tiel": {
+        "Latitude": 51.8999402,
+        "Longitude": 5.4478292
+    },
+    "Blauwwater 8 5951 DB, Belfeld": {
+        "Latitude": 51.3189208,
+        "Longitude": 6.1243512
+    },
+    "Aquamarijnweg 2 2665 PB, Bleiswijk": {
+        "Latitude": 52.0433321,
+        "Longitude": 4.530198299999999
+    },
+    "Popeweg 48 5928 SC, Venlo": {
+        "Latitude": 51.4059382,
+        "Longitude": 6.0893918
+    },
+    "Eloystraat 68 6166 XR, Geleen": {
+        "Latitude": 50.9724987,
+        "Longitude": 5.8367504
+    },
+    "Loo 77 5571 KP, Bergeijk": {
+        "Latitude": 51.309143,
+        "Longitude": 5.3393587
+    },
+    "Hugo van der Goeslaan 1 5643 TW, Eindhoven": {
+        "Latitude": 51.4330088,
+        "Longitude": 5.5058482
+    },
+    "Eiberstraat 65 6883 ED, Velp": {
+        "Latitude": 51.9889986,
+        "Longitude": 5.987174
+    },
+    "Holtenstraat 47 5045 CE, Tilburg": {
+        "Latitude": 51.58339340000001,
+        "Longitude": 5.0023932
+    },
+    "Malcom McLeanstraat 2 5975 WG, Sevenum": {
+        "Latitude": 51.4147118,
+        "Longitude": 6.0758136
+    },
+    "Akerstraat 88 6411 HC, Heerlen": {
+        "Latitude": 50.884248,
+        "Longitude": 5.9818653
+    },
+    "Slinge 598 3086 EX, Rotterdam": {
+        "Latitude": 51.8747911,
+        "Longitude": 4.467342299999999
+    },
+    "Leidinglaan 4 4541 CT, Sluiskil": {
+        "Latitude": 51.2748709,
+        "Longitude": 3.8332051
+    },
+    "Julianastraat 59 4571 GR, Axel": {
+        "Latitude": 51.2673783,
+        "Longitude": 3.9050299
+    },
+    "Poolanker 29 1319 CV, Almere": {
+        "Latitude": 52.393095,
+        "Longitude": 5.1793163
+    },
+    "Via Laera 1 6003 DZ, Weert": {
+        "Latitude": 51.2439415,
+        "Longitude": 5.7142222
+    },
+    "Op den Dries 1 6019 RA, Wessem": {
+        "Latitude": 51.1704978,
+        "Longitude": 5.870127399999999
+    },
+    "Witte Vennenweg 1 5807 EJ, Oostrum Lb": {
+        "Latitude": 51.5215745,
+        "Longitude": 6.0259673
+    },
+    "De Gorzen 10 4731 TV, Oudenbosch": {
+        "Latitude": 51.61564139999999,
+        "Longitude": 4.535425000000001
+    },
+    "Meerstraat 30 5473 VX, Heeswijk Dinther": {
+        "Latitude": 51.667623,
+        "Longitude": 5.473838
+    },
+    "Emmaberg 8 6301 ER, Valkenburg": {
+        "Latitude": 50.873307,
+        "Longitude": 5.8438462
+    },
+    "Pastoor Bloemstraat 45 5345 TN, Oss": {
+        "Latitude": 51.7625623,
+        "Longitude": 5.513832799999999
+    },
+    "Hamelpark 17 5256 KM, Heusden": {
+        "Latitude": 51.7221134,
+        "Longitude": 5.135053999999999
+    },
+    "Schiedamseweg Beneden 531 3028 BM, Rotterdam": {
+        "Latitude": 51.914499,
+        "Longitude": 4.4176693
+    },
+    "Laureijnestraat 53 4553 BV, Philippine": {
+        "Latitude": 51.2863957,
+        "Longitude": 3.7585439
+    },
+    "Pietersbergweg 301 1101 CT, Amsterdam": {
+        "Latitude": 52.298356,
+        "Longitude": 4.9534145
+    },
+    "De Schakel 39 5651 GH, Eindhoven": {
+        "Latitude": 51.4763461,
+        "Longitude": 5.406931699999999
+    },
+    "Europalaan 75 5531 BE, Bladel": {
+        "Latitude": 51.3665368,
+        "Longitude": 5.2137232
+    },
+    "Basillius van Bruggelaan 2 5363 VA, Velp-Grave": {
+        "Latitude": 51.76262089999999,
+        "Longitude": 5.716932
+    },
+    "Kuilstraat 17 6035 AW, Ospel": {
+        "Latitude": 51.3015133,
+        "Longitude": 5.7737941
+    },
+    "Hertogshoef 128 4941 KE, Raamsdonksveer": {
+        "Latitude": 51.6991971,
+        "Longitude": 4.8857523
+    },
+    "Wilgenstraat 91 5342 XJ, Oss": {
+        "Latitude": 51.7541954,
+        "Longitude": 5.5425719
+    },
+    "Slingenbergstraat 10 5344 KL, Oss": {
+        "Latitude": 51.7501088,
+        "Longitude": 5.493805600000001
+    },
+    "Schepen van der Holtstraat 10 6042 TX, Roermond": {
+        "Latitude": 51.2052864,
+        "Longitude": 6.0146557
     }
 }

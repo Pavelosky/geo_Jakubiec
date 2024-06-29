@@ -45,7 +45,7 @@ def main(unknown_addresses):
     for unknown_address in unknown_addresses:
         print(f"{i}: {unknown_address}")
         new_location = geocode_address(unknown_address)
-        time.sleep(1)  # Introduce a delay between geocoding requests
+        #time.sleep(1)  # Introduce a delay between geocoding requests
 
         if new_location:
             loc_lat, loc_lon = new_location

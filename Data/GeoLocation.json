@@ -52,8 +52,8 @@
         "Longitude": 5.0645392
     },
     "De Kroonweg 2 5145 NH, Waalwijk": {
-        "Latitude": 51.7021832,
-        "Longitude": 5.0722874
+        "Latitude": 51.7022911,
+        "Longitude": 5.071824599999999
     },
     "Prof. Veltmanweg 1 5144NB, Waalwijk": {
         "Latitude": 51.6782199,
@@ -472,8 +472,8 @@
         "Longitude": 4.8065155
     },
     "Galvaniweg 1 8013 RG, Zwolle": {
-        "Latitude": 52.4959201,
-        "Longitude": 6.1347382
+        "Latitude": 52.4961948,
+        "Longitude": 6.1349046
     },
     "Beiraweg 6 1047 HP, Amsterdam": {
         "Latitude": 52.4062315,
@@ -520,12 +520,12 @@
         "Longitude": 5.3143478
     },
     "Saffier 300 3316 LN, Dordrecht": {
-        "Latitude": 51.7622198,
-        "Longitude": 4.6335818
+        "Latitude": 51.762228,
+        "Longitude": 4.633681
     },
     "Regenbeemd 37 4825 AS, Breda": {
-        "Latitude": 51.6164462,
-        "Longitude": 4.7662032
+        "Latitude": 51.6164395,
+        "Longitude": 4.7662064
     },
     "Brigadedok 1 3433 KH, Nieuwegein": {
         "Latitude": 52.0102268,
@@ -540,8 +540,8 @@
         "Longitude": 4.6239474
     },
     "Conakryweg 4 1047 HS, Amsterdam": {
-        "Latitude": 52.4011697,
-        "Longitude": 4.7543583
+        "Latitude": 52.40002,
+        "Longitude": 4.7541842
     },
     "Inundatiedok 10 3439 JJ, Nieuwegein": {
         "Latitude": 52.0171245,
@@ -980,8 +980,8 @@
         "Longitude": 6.0016832
     },
     "Erik de Rodeweg 5 5975 WD, Sevenum": {
-        "Latitude": 51.4000306,
-        "Longitude": 6.0705839
+        "Latitude": 51.4000517,
+        "Longitude": 6.0705811
     },
     "Heierhoevenweg 10 5928 RN, Venlo": {
         "Latitude": 51.4060626,
@@ -1018,5 +1018,37 @@
     "Jules Verneweg 85 5015 BH, Tilburg": {
         "Latitude": 51.5749152,
         "Longitude": 5.1191699
+    },
+    "Oostwijkstraat 17 8331 EA, 8331 EA": {
+        "Latitude": 52.7868181,
+        "Longitude": 6.1222499
+    },
+    "Dorpstraat 157 7948 BP, Nijeveen": {
+        "Latitude": 52.74096369999999,
+        "Longitude": 6.1940342
+    },
+    "Hyacintstraat 2 4255 HX, Nieuwendijk NB": {
+        "Latitude": 51.7779636,
+        "Longitude": 4.9229598
+    },
+    "Grubbenvorsterweg 10 5928 NX, Venlo": {
+        "Latitude": 51.3919626,
+        "Longitude": 6.1434757
+    },
+    "Bijlmerdreef 131 1102 BP, Amsterdam": {
+        "Latitude": 52.3149612,
+        "Longitude": 4.9512901
+    },
+    "Laagheideweg 11 5966 PL, America": {
+        "Latitude": 51.4568737,
+        "Longitude": 5.9531794
+    },
+    "Heerbaan 4 4817 NL, Breda": {
+        "Latitude": 51.5813912,
+        "Longitude": 4.8056556
+    },
+    "Tramsingel 16 4814 AB, Breda": {
+        "Latitude": 51.591928,
+        "Longitude": 4.768816999999999
     }
 }

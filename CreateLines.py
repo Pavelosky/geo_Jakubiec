@@ -26,7 +26,6 @@ def get_lat_lon(start_address, address_data):
     else:
         return "EMPTY", "EMPTY"
 
-# Read addresses and coordinates from the Excel file
 ##############################################
 #  Document with locations to display on map #
 ##############################################
@@ -45,7 +44,7 @@ new_addresses = set()
 # for address, count in address_counts.items():
 #     print(f"Address: {address}, Count: {count}")
 
-# Create a map centered on the Netherlands
+# Create a map centered on the Netherlandsx
 m = folium.Map(location=[52.1, 5.3], zoom_start=8)
 
 # Iterate through each row in the DataFrame and plot trips
@@ -54,14 +53,15 @@ for index, row in df.iterrows():
     end_address = row['End Address']
     housing = row['Housing Location']
     work = row['Work Location']
-    weight = row['NrPassengers'] 
-
+    weight = row['NrPassengers']
 
     start_lat, start_lon = get_lat_lon(start_address, address_data)    
     end_lat, end_lon = get_lat_lon(end_address, address_data)   
 
-    if start_lat != "EMPTY" and start_lon != "EMPTY" and end_lat != "EMPTY" and end_lon != "EMPTY":
-
+    if start_lat == "EMPTY" and start_lon == "EMPTY" or end_lat == "EMPTY" and end_lon == "EMPTY":
+        new_addresses.add(start_address)
+        new_addresses.add(end_address)
+    else:
         #Add markers for start and end locations
         folium.Marker(
             location=[start_lat, start_lon],
@@ -85,13 +85,17 @@ for index, row in df.iterrows():
             weight=weight,
             color='blue'
         ).add_to(m)
-    else:
-        new_addresses.add(start_address)
-        new_addresses.add(end_address)
+
 
 addresses_to_check = list(new_addresses)
 
-getGeo.main(addresses_to_check)
+if len(addresses_to_check) > 0:
+    getGeo.main(addresses_to_check)
+else:
+    print("Locations check: OK")
+
+
+
 
 # Save the map to an HTML file
 m.save("map.html")

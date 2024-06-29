@@ -72,8 +72,10 @@ with open('Data/GeoLocation.json', 'r') as json_file:
     address_data = json.load(json_file)
 
 # Create layer groups for different distance categories
-short_distance_layer = folium.FeatureGroup(name='Short Distance (<55 km)')
-long_distance_layer = folium.FeatureGroup(name='Long Distance (≥55 km)')
+short_distance_layer = folium.FeatureGroup(name='Distance (<30 km)')
+medium_distance_layer = folium.FeatureGroup(name='Distance (<40 km)')
+mediumextra_distance_layer = folium.FeatureGroup(name='Distance (<50 km)')
+long_distance_layer = folium.FeatureGroup(name='Distance (≥60 km)')
 
 for index, row in df.iterrows():
     start_address = row['Start Address']
@@ -88,24 +90,30 @@ for index, row in df.iterrows():
 
 
     # Determine which layer to add to based on distance
-    if distance < 55:
+    if distance < 30:
         distance_layer = short_distance_layer
         distance_color = 'blue'
+    elif distance >= 30 and distance < 40:
+        distance_layer = medium_distance_layer
+        distance_color = 'yellow'
+    elif distance >= 40 and distance < 60:
+        distance_layer = mediumextra_distance_layer
+        distance_color = "red"
     else:
         distance_layer = long_distance_layer
-        distance_color = 'red'
+        distance_color = 'brown'
 
 
     #Add markers for start and end locations for DISTANCES
     folium.Marker(
         location=[start_lat, start_lon],
-        popup=work,
+        popup=housing,
         icon=folium.Icon(color='green')
     ).add_to(distance_layer)
 
     folium.Marker(
         location=[end_lat, end_lon],
-        popup=housing,
+        popup=work,
         icon=folium.Icon(color='red')
 
         ).add_to(distance_layer)
@@ -121,6 +129,8 @@ for index, row in df.iterrows():
 # Add layer groups to the map
 short_distance_layer.add_to(m)
 long_distance_layer.add_to(m)
+medium_distance_layer.add_to(m)
+mediumextra_distance_layer.add_to(m)
 
 # Add layer control to the map
 folium.LayerControl().add_to(m)

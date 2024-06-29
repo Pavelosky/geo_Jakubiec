@@ -1,7 +1,7 @@
 import json
 
 # Path to your JSON file
-json_doc = 'Data/GeoLocation.json'
+json_doc = 'GeoLocation.json'
 
 # Load the JSON data
 with open(json_doc, 'r') as json_file:

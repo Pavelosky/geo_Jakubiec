@@ -51,9 +51,6 @@ m = folium.Map(location=[52.1, 5.3], zoom_start=8)
 for index, row in df.iterrows():
     start_address = row['Start Address']
     end_address = row['End Address']
-    housing = row['Housing Location']
-    work = row['Work Location']
-    weight = row['NrPassengers']
 
     start_lat, start_lon = get_lat_lon(start_address, address_data)    
     end_lat, end_lon = get_lat_lon(end_address, address_data)   
@@ -61,31 +58,7 @@ for index, row in df.iterrows():
     if start_lat == "EMPTY" and start_lon == "EMPTY" or end_lat == "EMPTY" and end_lon == "EMPTY":
         new_addresses.add(start_address)
         new_addresses.add(end_address)
-    else:
-        #Add markers for start and end locations
-        folium.Marker(
-            location=[start_lat, start_lon],
-            popup=work,
-            icon=folium.Icon(color='green')
-        ).add_to(m)
-
-        folium.Marker(
-            location=[end_lat, end_lon],
-            popup=housing,
-            icon=folium.Icon(color='red')
-
-            ).add_to(m)
-
-        #Add a line connecting start and end locations
-        #weight = address_counts[start_address] + address_counts[end_address] / 2
-        
-        folium.PolyLine(
-            locations=[[start_lat, start_lon], [end_lat, end_lon]],
-            opacity=0.5,
-            weight=weight,
-            color='blue'
-        ).add_to(m)
-
+    
 
 addresses_to_check = list(new_addresses)
 
@@ -94,6 +67,63 @@ if len(addresses_to_check) > 0:
 else:
     print("Locations check: OK")
 
+# Load JSON data from a file
+with open('Data/GeoLocation.json', 'r') as json_file:
+    address_data = json.load(json_file)
+
+# Create layer groups for different distance categories
+short_distance_layer = folium.FeatureGroup(name='Short Distance (<45 km)')
+long_distance_layer = folium.FeatureGroup(name='Long Distance (≥45 km)')
+
+for index, row in df.iterrows():
+    start_address = row['Start Address']
+    end_address = row['End Address']
+    housing = row['Housing Location']
+    work = row['Work Location']
+    weight = row['NrPassengers']
+    distance = row['Travel Distance']
+
+    start_lat, start_lon = get_lat_lon(start_address, address_data)    
+    end_lat, end_lon = get_lat_lon(end_address, address_data) 
+
+
+    # Determine which layer to add to based on distance
+    if distance < 45:
+        distance_layer = short_distance_layer
+        distance_color = 'blue'
+    else:
+        distance_layer = long_distance_layer
+        distance_color = 'red'
+
+
+    #Add markers for start and end locations for DISTANCES
+    folium.Marker(
+        location=[start_lat, start_lon],
+        popup=work,
+        icon=folium.Icon(color='green')
+    ).add_to(distance_layer)
+
+    folium.Marker(
+        location=[end_lat, end_lon],
+        popup=housing,
+        icon=folium.Icon(color='red')
+
+        ).add_to(distance_layer)
+
+    folium.PolyLine(
+        locations=[[start_lat, start_lon], [end_lat, end_lon]],
+        opacity=0.5,
+        weight=weight,
+        color=distance_color
+    ).add_to(distance_layer)
+
+
+# Add layer groups to the map
+short_distance_layer.add_to(m)
+long_distance_layer.add_to(m)
+
+# Add layer control to the map
+folium.LayerControl().add_to(m)
 
 
 

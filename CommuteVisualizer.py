@@ -72,8 +72,8 @@ with open('Data/GeoLocation.json', 'r') as json_file:
     address_data = json.load(json_file)
 
 # Create layer groups for different distance categories
-short_distance_layer = folium.FeatureGroup(name='Short Distance (<45 km)')
-long_distance_layer = folium.FeatureGroup(name='Long Distance (≥45 km)')
+short_distance_layer = folium.FeatureGroup(name='Short Distance (<55 km)')
+long_distance_layer = folium.FeatureGroup(name='Long Distance (≥55 km)')
 
 for index, row in df.iterrows():
     start_address = row['Start Address']
@@ -88,7 +88,7 @@ for index, row in df.iterrows():
 
 
     # Determine which layer to add to based on distance
-    if distance < 45:
+    if distance < 55:
         distance_layer = short_distance_layer
         distance_color = 'blue'
     else:

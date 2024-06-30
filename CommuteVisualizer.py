@@ -33,13 +33,31 @@ def get_lat_lon(start_address, address_data):
 file_path = 'RouteVisualizationData.xlsx'
 df = read_addresses_from_excel(file_path)
 
-from_addresses = df.iloc[:, 0]
-first_column_list = from_addresses.tolist()
+
+#group the same commute combinations and sum nr of passengers
+grouped_df = df.groupby(['Start Address', 'End Address']).agg({
+    'NrPassengers' : 'sum',
+    'Travel Distance' : 'first',
+    'Housing Location' : 'first',
+    'Work Location' : 'first'
+
+}).reset_index()
+
+# Rename 'Passengers' column to 'Occupants'
+grouped_df.rename(columns={'Passengers': 'Occupants'}, inplace=True)
+
+# Convert the grouped DataFrame to a dictionary
+commutes = grouped_df.to_dict(orient='records')
+
+
+
+# from_addresses = df.iloc[:, 0]
+# first_column_list = from_addresses.tolist()
 
 # Initialize an empty set to store unique addresses
 new_addresses = set()
 
-#address_counts = count_repeated_addresses(first_column_list)
+#ddress_counts = count_repeated_addresses(first_column_list)
 
 # for address, count in address_counts.items():
 #     print(f"Address: {address}, Count: {count}")
@@ -47,10 +65,10 @@ new_addresses = set()
 # Create a map centered on the Netherlandsx
 m = folium.Map(location=[52.1, 5.3], zoom_start=8)
 
-# Iterate through each row in the DataFrame and plot trips
-for index, row in df.iterrows():
-    start_address = row['Start Address']
-    end_address = row['End Address']
+# # Iterate through each row in the DataFrame and plot trips
+for commute in commutes:
+    start_address = commute['Start Address']
+    end_address = commute['End Address']
 
     start_lat, start_lon = get_lat_lon(start_address, address_data)    
     end_lat, end_lon = get_lat_lon(end_address, address_data)   
@@ -67,23 +85,25 @@ if len(addresses_to_check) > 0:
 else:
     print("Locations check: OK")
 
-# Load JSON data from a file
+# # Load JSON data from a file
 with open('Data/GeoLocation.json', 'r') as json_file:
     address_data = json.load(json_file)
 
 # Create layer groups for different distance categories
 short_distance_layer = folium.FeatureGroup(name='Distance (<30 km)')
-medium_distance_layer = folium.FeatureGroup(name='Distance (<40 km)')
 mediumextra_distance_layer = folium.FeatureGroup(name='Distance (<50 km)')
 long_distance_layer = folium.FeatureGroup(name='Distance (≥60 km)')
 
-for index, row in df.iterrows():
-    start_address = row['Start Address']
-    end_address = row['End Address']
-    housing = row['Housing Location']
-    work = row['Work Location']
-    weight = row['NrPassengers']
-    distance = row['Travel Distance']
+
+for commute in commutes:
+    start_address = commute['Start Address']
+    end_address = commute['End Address']
+    housing = commute['Housing Location']
+    work = commute['Work Location']
+    weight = commute['NrPassengers']
+    distance = commute['Travel Distance']
+
+
 
     start_lat, start_lon = get_lat_lon(start_address, address_data)    
     end_lat, end_lon = get_lat_lon(end_address, address_data) 
@@ -93,10 +113,7 @@ for index, row in df.iterrows():
     if distance < 30:
         distance_layer = short_distance_layer
         distance_color = 'blue'
-    elif distance >= 30 and distance < 40:
-        distance_layer = medium_distance_layer
-        distance_color = 'yellow'
-    elif distance >= 40 and distance < 60:
+    elif distance >= 30 and distance < 60:
         distance_layer = mediumextra_distance_layer
         distance_color = "red"
     else:
@@ -128,11 +145,11 @@ for index, row in df.iterrows():
 
 # Add layer groups to the map
 short_distance_layer.add_to(m)
-long_distance_layer.add_to(m)
-medium_distance_layer.add_to(m)
 mediumextra_distance_layer.add_to(m)
+long_distance_layer.add_to(m)
 
-# Add layer control to the map
+
+#Add layer control to the map
 folium.LayerControl().add_to(m)
 
 

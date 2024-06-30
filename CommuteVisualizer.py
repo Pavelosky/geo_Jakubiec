@@ -50,10 +50,6 @@ grouped_df.rename(columns={'Passengers': 'Occupants'}, inplace=True)
 commutes = grouped_df.to_dict(orient='records')
 
 
-
-# from_addresses = df.iloc[:, 0]
-# first_column_list = from_addresses.tolist()
-
 # Initialize an empty set to store unique addresses
 new_addresses = set()
 
@@ -94,13 +90,17 @@ short_distance_layer = folium.FeatureGroup(name='Distance (<30 km)')
 mediumextra_distance_layer = folium.FeatureGroup(name='Distance (<50 km)')
 long_distance_layer = folium.FeatureGroup(name='Distance (≥60 km)')
 
+low_passengers_layer = folium.FeatureGroup(name='Passengers (<9)')
+medium_passengers_layer = folium.FeatureGroup(name='Passengers (<27)')
+high_passengers_layer = folium.FeatureGroup(name='Passengers (≥27)')
+
 
 for commute in commutes:
     start_address = commute['Start Address']
     end_address = commute['End Address']
     housing = commute['Housing Location']
     work = commute['Work Location']
-    weight = commute['NrPassengers']
+    occupancy = commute['NrPassengers']
     distance = commute['Travel Distance']
 
 
@@ -138,9 +138,42 @@ for commute in commutes:
     folium.PolyLine(
         locations=[[start_lat, start_lon], [end_lat, end_lon]],
         opacity=0.5,
-        weight=weight,
+        weight=10,
         color=distance_color
     ).add_to(distance_layer)
+
+
+        # Determine which layer to add to based on occupancy
+    if occupancy < 9:
+        occupancy_layer = low_passengers_layer
+        occupancy_nr = 3
+    elif distance >= 9 and distance < 27:
+        occupancy_layer = medium_passengers_layer
+        occupancy_nr = 6
+    else:
+        occupancy_layer = high_passengers_layer
+        occupancy_nr = 9
+
+    #Add markers for start and end locations for PASSENGERSE
+    folium.Marker(
+        location=[start_lat, start_lon],
+        popup=housing,
+        icon=folium.Icon(color='green')
+    ).add_to(occupancy_layer)
+
+    folium.Marker(
+        location=[end_lat, end_lon],
+        popup=work,
+        icon=folium.Icon(color='red')
+
+        ).add_to(occupancy_layer)
+
+    folium.PolyLine(
+        locations=[[start_lat, start_lon], [end_lat, end_lon]],
+        opacity=0.5,
+        weight=occupancy_nr,
+        color='Yellow'
+    ).add_to(occupancy_layer)
 
 
 # Add layer groups to the map
@@ -148,6 +181,9 @@ short_distance_layer.add_to(m)
 mediumextra_distance_layer.add_to(m)
 long_distance_layer.add_to(m)
 
+low_passengers_layer.add_to(m)
+medium_passengers_layer.add_to(m)
+high_passengers_layer.add_to(m)
 
 #Add layer control to the map
 folium.LayerControl().add_to(m)

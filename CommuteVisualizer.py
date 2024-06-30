@@ -1,6 +1,5 @@
 import folium
 import pandas as pd
-from collections import Counter
 import json
 import getGeo
 
@@ -9,10 +8,6 @@ def read_addresses_from_excel(file_path):
     df = pd.read_excel(file_path, engine='openpyxl')
     return df
 
-# Function to count repeated addresses
-def count_repeated_addresses(address_list):
-    address_counter = Counter(address_list)
-    return address_counter
 
 # Load JSON data from a file
 with open('Data/GeoLocation.json', 'r') as json_file:
@@ -45,18 +40,12 @@ grouped_df = df.groupby(['Start Address', 'End Address']).agg({
 
 # Rename 'Passengers' column to 'Occupants'
 grouped_df.rename(columns={'Passengers': 'Occupants'}, inplace=True)
-
 # Convert the grouped DataFrame to a dictionary
 commutes = grouped_df.to_dict(orient='records')
 
 
 # Initialize an empty set to store unique addresses
 new_addresses = set()
-
-#ddress_counts = count_repeated_addresses(first_column_list)
-
-# for address, count in address_counts.items():
-#     print(f"Address: {address}, Count: {count}")
 
 # Create a map centered on the Netherlandsx
 m = folium.Map(location=[52.1, 5.3], zoom_start=8)
@@ -138,7 +127,7 @@ for commute in commutes:
     folium.PolyLine(
         locations=[[start_lat, start_lon], [end_lat, end_lon]],
         opacity=0.5,
-        weight=10,
+        weight=12,
         color=distance_color
     ).add_to(distance_layer)
 
@@ -154,7 +143,7 @@ for commute in commutes:
         occupancy_layer = high_passengers_layer
         occupancy_nr = 9
 
-    #Add markers for start and end locations for PASSENGERSE
+    #Add markers for start and end locations for PASSENGERS
     folium.Marker(
         location=[start_lat, start_lon],
         popup=housing,
@@ -170,9 +159,9 @@ for commute in commutes:
 
     folium.PolyLine(
         locations=[[start_lat, start_lon], [end_lat, end_lon]],
-        opacity=0.5,
+        opacity=0.7,
         weight=occupancy_nr,
-        color='Yellow'
+        color='White'
     ).add_to(occupancy_layer)
 
 
